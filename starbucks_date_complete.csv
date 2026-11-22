@@ -1,0 +1,1848 @@
+countrycode,ownershiptypecode,latitude,longitude,city,sales,costs,satisfaction,storesize
+AT,Company Owned,48.11,16.32,Vosendorf,87.45,35.8,7.38,212.39
+AT,Company Owned,47.82,13.01,Salzburg,145.07,90.95,6.12,267.0
+AT,Company Owned,47.8,13.04,Salzburg,123.2,71.66,9.85,257.05
+AT,Company Owned,47.81,13.05,Salzburg,109.87,42.87,8.67,206.51
+AT,Licensed,48.13,16.56,Schwechat,65.6,85.28,9.73,68.82
+AT,Company Owned,48.2,16.35,Wien,65.6,88.91,7.06,78.1
+AT,Company Owned,48.24,16.39,Wien,55.81,87.72,8.45,62.33
+AT,Company Owned,48.18,16.38,Wien,136.62,93.51,8.71,114.37
+AT,Company Owned,48.21,16.37,Wien,110.11,40.18,7.27,83.92
+AT,Company Owned,48.21,16.37,Wien,120.81,80.4,9.39,115.01
+AT,Company Owned,48.22,16.35,Wien,52.06,56.84,9.79,146.26
+AT,Company Owned,48.2,16.36,Wien,146.99,87.36,9.54,285.75
+AT,Company Owned,48.21,16.38,Wien,133.24,78.28,8.96,202.59
+AT,Company Owned,48.21,16.39,Wien,71.23,82.12,7.11,258.74
+AT,Company Owned,48.24,16.43,Wien,68.18,72.49,7.13,227.59
+AT,Company Owned,48.2,16.34,Wien,68.34,34.19,9.85,78.13
+AT,Company Owned,48.21,16.36,Wien,80.42,63.6,6.04,233.98
+AT,Company Owned,48.2,16.37,Wien,102.48,98.77,8.86,118.77
+BE,Licensed,50.84,4.38,Brussels,93.19,94.99,8.82,209.78
+BE,Licensed,50.83,4.35,Brussels,79.12,23.45,8.49,135.24
+BE,Licensed,50.83,4.33,Brussels,111.19,33.19,9.96,299.42
+BE,Licensed,50.84,4.41,Brussels,63.95,30.54,7.25,115.89
+BE,Licensed,51.22,4.4,Antwerp,79.21,78.08,7.36,119.78
+BE,Licensed,50.84,4.36,Brussels,86.64,85.42,6.32,282.67
+BE,Licensed,50.85,4.36,Brussels,95.61,37.08,7.77,56.16
+BE,Licensed,51.22,4.42,Antwerp,128.52,60.47,7.04,224.17
+BE,Licensed,51.27,3.19,Brugges,69.97,87.26,7.37,231.33
+BE,Licensed,50.85,4.36,Brussels,101.42,78.62,9.34,259.09
+BE,Licensed,51.04,3.72,Gent,109.24,63.38,9.74,293.61
+BE,Licensed,51.05,3.72,Gent,54.65,67.23,6.74,293.9
+BE,Licensed,50.88,4.71,Leuven,110.75,60.67,7.49,66.32
+BE,Licensed,50.86,4.36,Schaerbeek,67.05,43.8,9.71,255.46
+BE,Licensed,50.9,4.49,Zaventem,56.51,65.2,6.25,211.58
+BE,Licensed,50.87,4.48,Zaventem,144.89,75.11,6.37,211.84
+BE,Licensed,50.9,4.48,Zaventem,146.56,89.87,6.65,82.09
+BE,Licensed,50.63,5.57,Liege,130.84,70.9,8.38,212.55
+BE,Licensed,50.47,4.86,Namur,80.46,80.89,6.6,295.62
+BG,Licensed,42.42,25.62,Burgas,59.77,32.81,9.87,277.95
+BG,Licensed,42.64,23.43,Sofia,118.42,56.92,7.79,159.78
+BG,Licensed,42.66,23.32,Sofia,94.02,20.75,8.01,59.99
+BG,Licensed,42.7,23.32,Sofia,62.2,39.73,6.99,140.57
+BG,Licensed,42.69,23.32,Sofia,99.52,78.12,7.88,256.6
+CH,Company Owned,47.39,8.05,Aarau,53.44,99.34,8.65,225.37
+CH,Company Owned,47.48,8.31,Baden,140.93,27.93,9.0,164.84
+CH,Company Owned,47.42,8.37,Spreitenbach,75.88,52.12,9.02,63.78
+CH,Company Owned,46.95,7.44,Bern,116.25,84.01,8.31,156.72
+CH,Company Owned,46.95,7.44,Bern,81.17,36.32,9.62,167.26
+CH,Company Owned,46.95,7.44,Bern,102.01,64.41,9.27,282.14
+CH,Company Owned,46.95,7.37,Bern,104.67,78.65,9.03,210.27
+CH,Company Owned,47.14,7.25,Biel,68.49,69.28,6.22,127.91
+CH,Company Owned,47.55,7.59,Basel,146.96,35.04,6.03,181.33
+CH,Company Owned,47.58,7.6,Basel,127.51,48.43,6.85,66.51
+CH,Company Owned,47.56,7.59,Basel,143.95,82.7,8.65,293.14
+CH,Company Owned,47.55,7.59,Basel,139.48,64.34,7.64,140.01
+CH,Company Owned,47.56,7.59,Basel,109.79,20.42,7.61,169.47
+CH,Company Owned,46.81,7.16,Fribourg,142.19,80.88,9.54,138.82
+CH,Licensed,46.8,7.15,Fribourg,58.85,22.82,9.58,220.63
+CH,Company Owned,46.21,6.14,Geneve,69.6,79.66,9.64,215.56
+CH,Company Owned,46.2,6.15,Geneve,54.52,36.2,7.26,228.83
+CH,Company Owned,46.21,6.15,Geneve,82.53,96.65,8.76,117.04
+CH,Company Owned,46.21,6.14,Geneve,88.87,49.44,7.09,128.92
+CH,Company Owned,46.2,6.14,Geneve,77.13,46.15,6.76,81.31
+CH,Company Owned,46.21,6.14,Geneve,132.87,31.91,6.74,213.88
+CH,Company Owned,46.2,6.15,Geneve,85.68,44.45,7.37,59.95
+CH,Licensed,46.23,6.11,Le Grand Saconnex,78.09,90.13,7.72,199.42
+CH,Company Owned,47.05,8.31,Luzern,104.27,99.71,9.32,267.42
+CH,Company Owned,47.05,8.31,Luzern,64.09,49.46,6.48,272.71
+CH,Company Owned,47.23,8.82,Rapperswil,130.22,55.89,8.94,162.26
+CH,Company Owned,47.42,9.37,St. Gallen,57.46,77.77,8.13,164.83
+CH,Company Owned,47.41,9.3,St. Gallen,148.69,90.9,7.15,69.24
+CH,Company Owned,47.42,9.37,St. Gallen,127.22,67.44,7.97,217.69
+CH,Company Owned,47.43,9.38,St. Gallen,69.87,51.32,7.2,255.31
+CH,Company Owned,46.52,6.63,Lausanne,50.55,53.01,8.38,111.16
+CH,Company Owned,46.52,6.63,Lausanne,131.55,75.65,7.74,155.33
+CH,Company Owned,46.52,6.63,Lausanne,120.69,20.26,6.66,259.71
+CH,Company Owned,46.46,6.84,Vevey,122.9,69.57,6.47,269.28
+CH,Company Owned,47.17,8.52,Zug,127.13,48.44,8.19,110.79
+CH,Company Owned,47.17,8.52,Zug,57.4,83.54,9.61,187.64
+CH,Company Owned,47.3,8.56,Thalwil,85.85,27.44,7.38,98.12
+CH,Company Owned,47.41,8.59,Wallisellen,61.59,67.06,8.93,75.47
+CH,Company Owned,47.5,8.72,Winterthur,136.31,58.48,8.63,277.78
+CH,Company Owned,47.5,8.73,Winterthur,112.33,71.39,9.73,255.13
+CH,Company Owned,47.38,8.54,Zurich,83.09,25.19,9.28,240.01
+CH,Company Owned,47.38,8.54,Zurich,56.36,66.4,8.27,62.19
+CH,Company Owned,47.37,8.55,Zurich,81.1,64.92,8.63,260.93
+CH,Company Owned,47.37,8.54,Zurich,82.52,64.85,9.59,159.51
+CH,Company Owned,47.37,8.54,Zurich,122.96,68.28,7.6,135.6
+CH,Company Owned,47.38,8.54,Zurich,113.76,74.12,7.31,186.62
+CH,Company Owned,47.38,8.54,Zurich,138.72,84.4,6.04,72.84
+CH,Company Owned,47.41,8.54,Zurich,97.22,41.59,9.31,239.16
+CH,Company Owned,47.36,8.52,Zurich,61.96,86.0,9.2,195.61
+CH,Company Owned,47.36,8.53,Zurich,121.32,59.86,6.42,96.65
+CH,Company Owned,47.38,8.53,Zurich,126.08,26.16,8.31,97.06
+CH,Company Owned,47.37,8.54,Zurich,106.13,24.68,7.86,96.06
+CH,Company Owned,47.45,8.56,Zurich,127.1,46.74,6.47,64.25
+CH,Company Owned,47.41,8.54,Zurich,99.38,82.79,9.92,196.95
+CH,Licensed,47.45,8.56,Zurich,102.27,76.61,6.86,260.09
+CH,Company Owned,47.37,8.53,Zurich,92.75,83.09,6.27,54.37
+CH,Company Owned,47.45,8.56,Zurich,52.54,61.38,8.38,62.25
+CH,Company Owned,47.37,8.54,Zurich,60.79,55.22,8.96,193.19
+CH,Licensed,47.46,8.55,Zurich,53.14,31.8,6.13,254.87
+CH,Company Owned,47.39,8.54,Zurich,113.64,46.26,8.63,131.68
+CH,Company Owned,47.36,8.55,Zurich,81.44,54.72,8.13,137.4
+CZ,Joint Venture,49.18,16.57,Brno,100.86,27.09,6.41,199.09
+CZ,Joint Venture,49.14,16.63,Brno,140.76,37.65,6.69,118.55
+CZ,Joint Venture,49.19,16.61,Brno,74.93,67.86,8.27,56.65
+CZ,Joint Venture,49.2,16.61,Brno,91.04,78.85,7.19,233.81
+CZ,Joint Venture,49.83,18.29,Ostrava,125.56,99.87,9.75,206.41
+CZ,Joint Venture,49.8,18.23,Ostrava,72.88,94.65,9.27,195.19
+CZ,Joint Venture,50.09,14.4,Prague,57.7,71.41,9.93,235.42
+CZ,Joint Venture,50.03,14.49,Prague,78.98,53.7,7.04,218.81
+CZ,Joint Venture,50.07,14.4,Prague,66.12,70.89,9.88,101.47
+CZ,Joint Venture,50.08,14.43,Praha,142.97,82.85,7.72,138.12
+CZ,Joint Venture,50.08,14.43,Praha,130.81,29.47,7.39,81.53
+CZ,Joint Venture,50.09,14.43,Praha,113.34,52.79,6.2,82.46
+CZ,Joint Venture,50.1,14.4,Praha,137.15,87.18,6.21,219.05
+CZ,Joint Venture,50.09,14.4,Praha,130.37,50.71,8.77,264.65
+CZ,Joint Venture,50.11,14.27,Praha,68.66,65.75,7.83,290.68
+CZ,Joint Venture,50.08,14.54,Praha,139.26,67.02,6.91,207.09
+CZ,Joint Venture,50.05,14.29,Praha,103.93,34.76,8.46,96.03
+CZ,Joint Venture,50.09,14.43,Praha,130.74,48.98,7.01,76.41
+CZ,Joint Venture,50.05,14.3,Praha,139.61,46.76,8.31,253.21
+CZ,Joint Venture,50.09,14.42,Praha,81.8,22.1,7.44,194.69
+CZ,Joint Venture,50.09,14.45,Praha,61.01,21.94,9.29,204.57
+CZ,Joint Venture,50.11,14.58,Praha,72.79,86.54,9.28,245.37
+CZ,Joint Venture,50.09,14.43,Praha,92.71,41.85,7.91,225.82
+CZ,Joint Venture,50.08,14.43,Praha,131.8,61.45,7.4,258.61
+CZ,Joint Venture,50.14,14.5,Praha,136.07,43.9,7.45,64.05
+CZ,Joint Venture,50.09,14.44,Praha,50.7,95.25,9.22,236.88
+CZ,Joint Venture,50.03,14.49,Praha,101.07,40.74,7.31,262.71
+CZ,Joint Venture,50.07,14.4,Praha 5,91.74,54.37,6.84,121.53
+DE,Company Owned,52.37,13.13,POTSDAM,72.21,89.82,6.34,210.11
+DE,Company Owned,52.4,13.06,POTSDAM,61.99,87.35,7.87,128.54
+DE,Company Owned,52.52,13.42,BERLIN,83.76,34.89,7.93,289.49
+DE,Company Owned,52.51,13.38,BERLIN,144.29,84.21,9.36,58.36
+DE,Company Owned,52.51,13.37,Berlin,82.32,56.65,6.88,194.95
+DE,Company Owned,52.52,13.38,BERLIN,101.88,58.64,7.52,91.63
+DE,Company Owned,52.5,13.33,BERLIN,120.3,30.68,9.23,228.06
+DE,Company Owned,52.46,13.33,Berlin,86.36,26.45,9.29,93.97
+DE,Company Owned,52.5,13.31,BERLIN,147.18,78.24,7.54,108.85
+DE,Company Owned,52.52,13.41,Berlin,146.24,59.72,7.84,173.59
+DE,Licensed,52.51,13.33,Berlin,75.18,54.95,7.21,278.71
+DE,Company Owned,52.51,13.39,BERLIN,99.72,78.36,9.73,102.93
+DE,Company Owned,52.51,13.39,BERLIN,80.09,81.24,6.47,86.06
+DE,Company Owned,52.53,13.4,Berlin,78.48,32.71,9.73,239.74
+DE,Company Owned,52.52,13.39,BERLIN,53.69,68.82,8.74,175.15
+DE,Licensed,52.51,13.43,Berlin,110.96,30.83,8.13,277.95
+DE,Company Owned,52.51,13.37,BERLIN,100.27,80.11,6.13,86.65
+DE,Company Owned,52.55,13.29,BERLIN,55.15,72.56,7.9,211.48
+DE,Company Owned,52.52,13.37,BERLIN,77.86,96.53,7.63,108.22
+DE,Company Owned,52.5,13.33,BERLIN,140.83,25.52,6.64,89.19
+DE,Company Owned,52.51,13.31,BERLIN,73.96,24.56,8.63,220.86
+DE,Company Owned,52.52,13.41,BERLIN,64.49,42.57,9.88,198.42
+DE,Company Owned,48.78,8.19,Baden-Baden,98.95,40.94,8.25,238.71
+DE,Licensed,48.69,9.04,Boeblingen,148.57,39.76,8.86,127.37
+DE,Company Owned,48.74,9.31,Esslingen,74.21,92.5,6.27,161.99
+DE,Company Owned,48.0,7.84,FREIBURG,117.21,39.96,7.67,151.37
+DE,Company Owned,47.99,7.85,FREIBURG,126.16,41.76,6.47,296.02
+DE,Company Owned,48.0,7.85,FREIBURG,73.76,80.75,8.45,123.06
+DE,Company Owned,49.41,8.71,HEIDELBERG,122.82,55.98,9.75,123.7
+DE,Company Owned,49.41,8.7,HEIDELBERG,86.78,82.14,8.65,138.64
+DE,Company Owned,49.14,9.22,HEILBRONN,113.23,25.23,6.31,191.15
+DE,Company Owned,49.14,9.22,HEILBRONN,113.35,59.01,7.42,113.08
+DE,Company Owned,49.01,8.4,KARLSRUHE,103.58,22.69,8.2,278.82
+DE,Company Owned,49.01,8.4,KARLSRUHE,59.03,25.01,7.61,116.42
+DE,Company Owned,49.01,8.39,Karlsruhe,133.53,92.51,9.33,273.95
+DE,Company Owned,48.8,9.01,LEONBERG,82.08,31.14,9.26,75.87
+DE,Company Owned,48.92,9.15,Ludwigsburg,68.65,62.59,8.45,214.14
+DE,Company Owned,49.48,8.47,MANNHEIM,54.08,52.89,7.49,276.75
+DE,Company Owned,48.78,9.18,STUTTGART,109.09,47.79,7.02,92.19
+DE,Company Owned,48.78,9.18,STUTTGART,117.76,91.99,6.42,292.08
+DE,Company Owned,48.79,9.18,Stuttgart,51.66,21.75,7.42,163.22
+DE,Company Owned,48.78,9.18,Stuttgart,101.21,73.1,7.65,286.43
+DE,Company Owned,48.78,9.17,STUTTGART,72.65,97.07,8.7,219.21
+DE,Company Owned,49.59,11.0,Erlangen,114.52,64.81,8.63,125.4
+DE,Licensed,49.7,11.88,Grafenwohr,67.44,94.95,6.28,97.08
+DE,Company Owned,48.14,11.57,MUENCHEN,119.09,24.18,7.58,125.93
+DE,Company Owned,48.16,11.59,MUENCHEN,88.67,53.5,6.73,73.25
+DE,Company Owned,48.14,11.56,MUENCHEN,143.67,40.81,6.63,85.97
+DE,Company Owned,48.14,11.58,MUENCHEN,63.75,78.47,9.31,76.17
+DE,Company Owned,48.14,11.56,MUENCHEN,84.11,98.5,6.17,155.74
+DE,Company Owned,48.14,11.58,MUENCHEN,61.35,40.52,7.68,248.89
+DE,Company Owned,48.1,11.65,MUENCHEN,142.47,72.33,6.67,85.35
+DE,Company Owned,48.14,11.57,MUENCHEN,137.73,35.85,9.52,82.58
+DE,Company Owned,48.35,11.79,MUENCHEN,75.79,65.23,8.23,210.86
+DE,Company Owned,48.14,11.58,MUENCHEN,116.0,57.11,6.93,99.3
+DE,Company Owned,48.14,11.56,Munich,131.72,97.76,8.01,74.4
+DE,Licensed,48.17,11.45,Munich,105.52,68.68,8.93,91.71
+DE,Company Owned,49.45,11.08,NUERNBERG,102.97,47.96,9.83,280.93
+DE,Company Owned,49.45,11.08,NUERNBERG,74.19,29.13,6.88,255.37
+DE,Company Owned,49.45,11.07,NÜRNBERG,59.31,32.1,9.54,138.52
+DE,Company Owned,49.45,11.08,NÜRNBERG,139.72,38.03,9.74,213.96
+DE,Company Owned,53.11,8.75,BREMEN,140.04,40.08,9.67,184.32
+DE,Company Owned,53.11,8.75,BREMEN,113.31,88.05,8.54,219.28
+DE,Company Owned,53.08,8.81,BREMEN,83.9,64.9,8.52,220.67
+DE,Company Owned,53.08,8.81,Bremen,84.92,61.87,7.61,207.18
+DE,Company Owned,49.87,8.65,DARMSTADT,122.6,29.18,9.01,116.53
+DE,Company Owned,50.13,8.67,Frankfurt,139.71,88.81,8.13,59.75
+DE,Licensed,50.05,8.57,Frankfurt,138.71,77.83,8.71,163.89
+DE,Licensed,50.03,8.56,Frankfurt,127.99,25.41,7.71,272.74
+DE,Licensed,50.05,8.59,Frankfurt,114.2,76.63,8.93,192.37
+DE,Licensed,50.14,8.69,Frankfurt,58.41,63.48,9.3,258.1
+DE,Licensed,50.05,8.57,Frankfurt,66.16,26.54,6.59,297.91
+DE,Company Owned,50.11,8.65,FRANKFURT AM MAIN,139.86,56.66,9.33,90.9
+DE,Company Owned,50.11,8.69,FRANKFURT AM MAIN,110.64,58.78,8.16,222.94
+DE,Company Owned,50.11,8.67,FRANKFURT AM MAIN,50.92,33.26,9.38,218.57
+DE,Company Owned,50.11,8.68,FRANKFURT AM MAIN,60.15,95.66,7.73,294.99
+DE,Company Owned,50.11,8.67,FRANKFURT AM MAIN,116.35,88.0,7.52,296.4
+DE,Company Owned,50.11,8.68,FRANKFURT AM MAIN,50.51,73.52,9.66,221.67
+DE,Company Owned,50.11,8.67,FRANKFURT AM MAIN,66.08,56.98,7.0,110.9
+DE,Company Owned,50.11,8.66,FRANKFURT AM MAIN,104.87,52.94,9.38,249.64
+DE,Company Owned,50.14,8.75,FRANKFURT AM MAIN,119.19,72.08,7.94,76.76
+DE,Company Owned,50.16,8.63,FRANKFURT AM MAIN,115.2,63.63,8.06,245.17
+DE,Company Owned,50.11,8.67,FRANKFURT AM MAIN,72.43,24.98,7.23,277.55
+DE,Company Owned,51.32,9.5,Kassel,121.22,61.0,8.29,145.71
+DE,Company Owned,50.1,8.76,Offenbach am Main,73.72,84.51,7.3,207.66
+DE,Company Owned,50.12,8.53,Sulzbach,82.54,56.74,6.16,157.54
+DE,Company Owned,49.53,8.57,VIERNHEIM,124.65,24.16,7.09,159.44
+DE,Company Owned,49.89,8.61,WEITERSTADT,114.96,82.9,6.03,127.59
+DE,Licensed,50.07,8.27,Wiesbaden,134.92,36.11,9.91,240.53
+DE,Company Owned,50.08,8.24,WIESBADEN,115.76,40.69,9.86,284.04
+DE,Company Owned,50.07,8.24,WIESBADEN,106.83,33.18,7.58,285.19
+DE,Licensed,53.63,10.0,Hamburg,59.37,46.42,8.91,93.7
+DE,Company Owned,53.55,9.99,HAMBURG,86.77,80.54,7.38,268.69
+DE,Company Owned,53.55,9.99,HAMBURG,76.52,61.55,8.68,234.36
+DE,Company Owned,53.65,10.09,HAMBURG,74.4,36.39,9.22,113.21
+DE,Company Owned,53.59,9.99,Hamburg,147.3,90.23,9.79,66.82
+DE,Licensed,53.55,10.01,Hamburg,89.31,90.37,7.6,117.0
+DE,Company Owned,53.56,9.99,HAMBURG,139.2,89.65,9.13,278.05
+DE,Company Owned,53.55,10.0,HAMBURG,113.11,39.1,7.06,208.29
+DE,Company Owned,53.57,9.86,Hamburg,129.48,56.1,9.96,230.26
+DE,Company Owned,53.56,9.99,Hamburg,100.26,98.8,6.1,114.29
+DE,Company Owned,53.55,9.99,HAMBURG,107.69,81.76,8.41,229.85
+DE,Company Owned,53.56,9.81,HAMBURG,99.25,22.17,8.64,57.03
+DE,Company Owned,53.55,10.0,HAMBURG,69.52,25.22,8.75,143.83
+DE,Company Owned,52.26,10.52,Braunschweig,122.25,57.11,6.48,206.69
+DE,Company Owned,52.26,10.53,BRAUNSCHWEIG,78.08,92.74,9.75,86.52
+DE,Company Owned,52.38,9.74,Hannover,52.43,63.1,6.72,255.75
+DE,Company Owned,52.38,9.74,Hannover,114.55,59.83,8.49,108.76
+DE,Company Owned,52.27,8.05,OSNABRUECK,67.71,28.44,6.89,213.07
+DE,Company Owned,52.99,9.86,Soltau,144.05,72.54,7.23,151.3
+DE,Company Owned,50.78,6.08,Aachen,145.39,85.77,8.19,199.01
+DE,Company Owned,52.02,8.53,Bielefeld,141.49,50.43,7.67,76.86
+DE,Company Owned,51.48,7.22,BOCHUM,87.02,82.05,6.64,54.23
+DE,Company Owned,50.72,7.14,BONN,51.55,97.16,6.68,277.39
+DE,Company Owned,50.73,7.1,BONN,142.83,36.3,7.67,117.41
+DE,Company Owned,50.74,7.1,BONN,92.82,61.87,9.03,254.92
+DE,Company Owned,50.94,6.95,Cologne,146.67,42.97,9.59,299.84
+DE,Company Owned,50.94,6.96,COLOGNE,146.36,83.43,6.34,102.86
+DE,Company Owned,50.94,6.94,COLOGNE,135.3,66.21,7.57,116.29
+DE,Company Owned,50.94,6.96,COLOGNE,79.44,70.77,6.4,215.71
+DE,Company Owned,51.51,7.47,DORTMUND,88.51,83.83,6.07,291.36
+DE,Company Owned,51.51,7.46,Dortmund,135.11,51.68,8.65,278.95
+DE,Company Owned,51.51,7.47,DORTMUND,81.69,93.21,8.41,175.72
+DE,Company Owned,51.23,6.78,DUESSELDORF,66.95,62.64,6.65,248.78
+DE,Company Owned,51.22,6.8,DUESSELDORF,105.68,32.64,6.94,83.94
+DE,Company Owned,51.22,6.77,Duesseldorf,143.62,75.67,6.09,294.36
+DE,Company Owned,51.28,6.76,DUESSELDORF,119.6,83.46,9.34,291.09
+DE,Company Owned,51.21,6.82,Duesseldorf,107.01,45.34,9.9,90.93
+DE,Company Owned,51.28,6.76,DUESSELDORF,59.72,88.57,6.54,124.86
+DE,Company Owned,51.43,6.77,DUISBURG,111.5,92.49,6.93,75.04
+DE,Company Owned,51.43,6.77,DUISBURG,149.01,42.15,9.47,117.93
+DE,Company Owned,51.43,6.77,DUISBURG,64.01,98.68,9.71,253.99
+DE,Company Owned,51.45,7.01,Essen,101.83,31.26,7.68,144.58
+DE,Company Owned,51.45,7.01,ESSEN,137.74,36.16,6.2,72.1
+DE,Company Owned,51.46,7.0,ESSEN,124.08,34.74,6.16,135.56
+DE,Company Owned,50.94,6.84,KÖLN,119.7,91.52,8.3,295.35
+DE,Company Owned,50.88,7.12,KÖLN,120.25,72.34,7.57,207.42
+DE,Company Owned,51.03,6.98,Leverkusen,85.95,32.17,6.11,154.04
+DE,Company Owned,51.44,6.95,MUELHEIM,79.36,55.23,8.33,91.63
+DE,Company Owned,51.96,7.63,MÜNSTER,130.94,69.22,6.05,296.54
+DE,Company Owned,51.49,6.88,OBERHAUSEN,131.01,26.68,9.15,255.21
+DE,Company Owned,51.49,6.88,OBERHAUSEN,136.71,90.59,7.23,120.37
+DE,Company Owned,51.49,6.88,OBERHAUSEN,141.32,84.29,6.16,67.52
+DE,Company Owned,51.26,7.15,WUPPERTAL,101.13,60.42,8.35,64.16
+DE,Licensed,50.44,7.22, Niederzissen,100.15,97.37,7.59,80.09
+DE,Company Owned,50.36,7.6,Koblenz,129.83,53.42,9.9,195.19
+DE,Company Owned,50.0,8.26,Mainz,115.0,98.73,8.18,282.19
+DE,Licensed,50.59,7.45,Neustadt Wied,120.2,73.43,7.1,174.19
+DE,Licensed,49.45,7.55,Ramstein,129.58,70.77,8.84,260.74
+DE,Licensed,49.99,6.69,Spangdahlem,139.0,33.28,7.09,161.47
+DE,Company Owned,54.32,10.14,Kiel,83.8,90.55,9.62,227.15
+DE,Company Owned,54.04,9.98,Neumunster,87.56,54.2,7.5,232.97
+DE,Company Owned,49.24,6.99,Saarbruecken,59.4,32.98,8.2,93.49
+DE,Company Owned,49.24,6.99,Saarbruecken,107.83,21.01,6.2,140.3
+DE,Company Owned,51.05,13.74,Dresden,53.59,64.78,7.7,209.33
+DE,Company Owned,51.04,13.73,Dresden,96.56,62.19,9.33,67.67
+DE,Company Owned,51.04,13.74,Dresden,104.26,77.55,9.22,140.39
+DE,Company Owned,51.34,12.38,Leipzig,78.65,91.22,6.9,183.7
+DE,Company Owned,51.34,12.38,LEIPZIG,109.08,26.35,6.9,299.06
+DE,Licensed,50.97,11.04,Erfurt,53.05,78.52,9.27,168.63
+ES,Licensed,40.48,-3.69,Madrid,53.73,34.99,9.72,254.01
+ES,Licensed,39.46,-0.48,Aldaia,132.26,88.65,6.38,158.02
+ES,Licensed,36.68,-4.49,Malaga,86.02,85.53,7.8,249.1
+ES,Licensed,36.72,-4.43,Malaga,62.71,63.26,7.35,198.85
+ES,Licensed,36.5,-4.92,Malaga,102.22,76.82,9.48,271.65
+ES,Licensed,36.68,-4.49,Malaga,127.0,45.15,6.33,152.74
+ES,Licensed,36.72,-4.42,Malanga,71.58,57.69,6.84,201.08
+ES,Licensed,39.5,-0.48,Manises,112.29,85.73,9.01,207.5
+ES,Licensed,36.55,-4.63,Mijas Costa,58.53,56.74,6.21,154.35
+ES,Licensed,37.39,-6.0,Sevilla,55.17,48.62,7.97,86.08
+ES,Licensed,37.39,-5.99,Sevilla,103.14,59.54,7.77,73.39
+ES,Licensed,37.38,-5.99,Sevilla,104.06,86.26,7.34,54.17
+ES,Licensed,37.38,-5.99,Sevilla,113.74,46.82,7.58,268.38
+ES,Licensed,39.48,-0.38,Valencia,122.61,33.9,8.12,109.12
+ES,Licensed,39.47,-0.38,Valencia,147.59,76.96,6.65,102.88
+ES,Licensed,39.47,-0.37,Valencia,101.63,86.08,8.29,234.01
+ES,Licensed,39.47,-0.38,Valencia,82.3,28.05,9.22,130.0
+ES,Licensed,43.26,-2.93,Bilbao,129.52,39.19,9.04,176.51
+ES,Licensed,43.3,-2.91,Loiu,77.08,31.36,6.62,90.63
+ES,Licensed,43.35,-8.43,A Coruna,93.9,47.84,6.6,289.94
+ES,Licensed,43.35,-8.41,A CORUNA,57.85,56.03,7.07,262.9
+ES,Licensed,38.34,-0.49,Alicante,52.54,79.91,7.44,265.95
+ES,Licensed,27.94,-15.39,Telde,146.26,72.09,7.63,151.69
+ES,Licensed,41.44,2.2,Barcelona,133.6,69.67,8.72,240.59
+ES,Licensed,41.4,2.19,Barcelona,119.6,48.19,6.23,85.97
+ES,Licensed,41.39,2.14,Barcelona,90.9,87.32,6.14,52.15
+ES,Licensed,41.39,2.14,Barcelona,67.33,57.7,7.57,54.99
+ES,Licensed,41.4,2.16,Barcelona,65.64,98.33,8.79,196.65
+ES,Licensed,41.38,2.17,Barcelona,75.02,70.73,6.77,163.85
+ES,Licensed,41.39,2.17,Barcelona,104.92,30.1,8.57,179.5
+ES,Licensed,41.4,2.17,Barcelona,121.46,74.09,7.04,51.87
+ES,Licensed,41.39,2.17,Barcelona,116.02,46.01,9.54,155.67
+ES,Licensed,41.39,2.17,Barcelona,77.99,74.91,9.58,229.52
+ES,Licensed,41.39,2.17,Barcelona,145.49,25.57,7.19,160.67
+ES,Licensed,41.4,2.19,Barcelona,123.79,33.99,6.92,233.05
+ES,Licensed,41.39,2.12,Barcelona,105.44,88.46,7.65,108.25
+ES,Licensed,41.39,2.17,Barcelona,111.17,38.17,6.96,253.29
+ES,Licensed,41.39,2.16,Barcelona,91.96,86.96,8.69,197.11
+ES,Licensed,41.38,2.18,Barcelona,74.77,42.34,9.3,102.69
+ES,Licensed,41.38,2.18,Barcelona,85.6,71.43,8.69,109.18
+ES,Licensed,41.39,2.17,Barcelona,125.78,75.53,9.3,207.01
+ES,Licensed,41.39,2.18,Barcelona,51.44,61.01,7.59,257.48
+ES,Licensed,41.41,2.2,Barcelona,61.61,44.42,6.63,153.91
+ES,Licensed,39.55,2.71,Palm,54.6,37.01,8.95,114.58
+ES,Licensed,39.57,2.65,Palma,54.07,22.66,7.44,266.75
+ES,Licensed,40.45,-3.7,Madrid,135.55,44.32,8.69,217.32
+ES,Licensed,36.49,-4.95,Malaga,120.37,72.25,7.08,162.02
+ES,Licensed,40.5,-3.64,Las Tablas - Madrid,97.42,95.06,6.32,171.98
+ES,Licensed,40.44,-3.69,Madrid,59.78,89.7,9.97,101.06
+ES,Licensed,40.46,-3.69,Madrid,99.16,81.29,6.62,206.7
+ES,Licensed,40.43,-3.69,Madrid,97.35,83.08,9.95,139.69
+ES,Licensed,40.43,-3.72,Madrid,67.32,73.2,9.91,298.91
+ES,Licensed,40.42,-3.68,Madrid,93.39,40.82,9.18,170.05
+ES,Licensed,40.28,-3.92,Madrid,89.85,92.58,8.64,171.47
+ES,Licensed,40.42,-3.71,Madrid,111.59,73.66,8.31,191.46
+ES,Licensed,40.34,-3.74,Madrid,113.51,64.84,9.46,279.19
+ES,Licensed,40.42,-3.69,Madrid,54.53,28.88,7.16,250.2
+ES,Licensed,40.43,-3.71,Madrid,87.46,55.76,7.87,162.78
+ES,Licensed,40.42,-3.7,Madrid,112.59,56.83,8.48,229.67
+ES,Licensed,40.45,-3.7,Madrid,100.31,89.17,7.64,196.56
+ES,Licensed,40.43,-3.7,Madrid,135.65,63.73,7.71,173.09
+ES,Licensed,40.41,-3.69,Madrid,115.87,50.43,7.32,98.08
+ES,Licensed,40.47,-3.58,Madrid,66.29,98.14,8.26,165.98
+ES,Licensed,40.44,-3.68,Madrid,57.06,28.86,9.4,111.45
+ES,Licensed,40.42,-3.7,Madrid,114.24,53.8,6.81,278.71
+ES,Licensed,40.42,-3.7,Madrid,52.65,23.36,9.74,133.85
+ES,Licensed,40.47,-3.7,Madrid,108.58,79.19,8.76,288.07
+ES,Licensed,40.45,-3.66,Madrid,144.02,93.45,9.29,183.26
+ES,Licensed,40.44,-3.66,Madrid,107.55,42.4,8.22,207.89
+ES,Licensed,40.47,-3.82,Madrid,88.82,88.67,9.12,185.74
+ES,Licensed,40.58,-3.69,Madrid,114.33,43.38,6.06,82.35
+ES,Licensed,40.42,-3.7,Madrid,95.83,92.86,9.27,143.96
+ES,Licensed,40.48,-3.84,Madrid,104.56,80.32,6.16,74.79
+ES,Licensed,40.43,-3.68,Madrid,144.15,84.39,9.56,205.74
+ES,Licensed,40.42,-3.71,Madrid,88.61,21.44,9.97,161.72
+ES,Licensed,40.42,-3.71,Madrid,146.12,97.02,7.18,244.5
+ES,Licensed,40.42,-3.71,Madrid,140.54,78.13,6.84,105.12
+ES,Licensed,40.32,-3.62,Madrid,69.58,44.38,9.06,91.14
+ES,Licensed,40.42,-3.7,Madrid,56.94,86.35,7.01,151.58
+ES,Licensed,40.37,-3.6,Madrid,60.08,42.52,9.46,281.65
+ES,Licensed,40.34,-3.53,Madrid,51.82,89.82,6.41,227.61
+ES,Licensed,40.47,-3.58,Madrid,59.44,29.01,6.5,154.73
+ES,Licensed,40.44,-3.68,Madrid,118.3,76.29,9.92,179.32
+ES,Licensed,40.47,-3.58,Madrid,57.12,63.26,8.7,71.05
+ES,Licensed,40.43,-3.7,Madrid,81.9,27.72,9.39,296.14
+ES,Licensed,40.45,-3.7,Madrid,134.49,39.35,7.3,216.6
+ES,Licensed,40.46,-3.69,Madrid,52.33,20.99,8.71,121.35
+ES,Licensed,40.44,-3.68,Madrid,131.45,57.5,8.38,196.45
+ES,Licensed,40.46,-3.64,Madrid,78.19,44.1,8.41,77.37
+ES,Licensed,40.43,-3.72,Madrid,61.82,67.87,8.73,291.46
+ES,Licensed,40.42,-3.71,Madrid,119.67,43.78,8.3,93.7
+ES,Licensed,40.37,-3.74,Madrid,112.89,43.99,7.72,212.01
+ES,Licensed,40.44,-3.79,MADRID,137.75,79.46,7.1,111.36
+ES,Licensed,40.4,-3.82,Madrid,123.51,23.85,9.07,229.39
+ES,Licensed,40.46,-3.91,Majadahonda,130.35,92.23,6.91,244.21
+ES,Licensed,40.54,-3.61,San Sebastian de los Reyes,78.2,88.18,8.77,218.35
+ES,Licensed,40.58,-3.93,Torrelodones,67.74,73.42,6.93,203.62
+ES,Licensed,37.99,-1.13,Murcia,125.06,67.46,8.5,273.12
+ES,Licensed,43.32,-1.98,San Sebastian,130.68,91.38,8.99,69.66
+ES,Licensed,41.61,-0.89,Zargoza,149.05,34.83,6.87,132.73
+ES,Licensed,38.29,-0.56,Alicante,91.26,26.32,6.24,112.07
+FI,Licensed,60.32,24.97,Vantaa,87.2,39.16,6.52,297.0
+FI,Licensed,60.32,24.97,Vantaa,127.64,83.57,8.42,147.35
+FI,Licensed,60.22,24.81,Espoo,84.08,22.77,9.4,233.15
+FI,Licensed,60.17,24.93,Helsinki,143.08,66.62,6.18,221.18
+FI,Licensed,60.17,24.94,Helsinki,135.84,99.64,8.94,103.02
+FI,Licensed,60.21,25.08,Helsinki,92.9,88.46,7.37,109.75
+FI,Licensed,60.29,24.96,Vantaa,125.09,61.72,7.91,120.32
+FI,Licensed,60.26,24.85,Vantaa,125.45,25.09,9.72,152.78
+FR,Franchise,47.75,7.34,Mulhouse,60.31,86.51,7.33,108.58
+FR,Franchise,48.58,7.75,Strasbourg,140.26,67.92,7.86,54.91
+FR,Franchise,44.79,-0.53,Begles,100.53,29.19,6.05,269.85
+FR,Franchise,44.84,-0.57,Bordeaux,132.65,27.51,6.33,291.4
+FR,Franchise,44.84,-0.58,Bordeaux,82.0,92.77,7.03,135.39
+FR,Franchise,44.85,-0.57,Bordeaux,139.55,73.54,6.11,134.63
+FR,Licensed,44.84,-0.65,Merignac,88.92,86.34,8.53,51.77
+FR,Licensed,45.78,3.12,Clermont Ferrand,51.08,90.32,7.71,220.06
+FR,Franchise,47.32,5.04,Dijon,140.54,65.74,8.19,256.36
+FR,Licensed,48.24,1.08,Brou,59.13,61.4,6.7,86.65
+FR,Company Owned,48.81,2.33,Arcueil,81.93,54.43,7.18,89.92
+FR,Company Owned,48.87,2.78,Chessy,145.01,45.36,8.66,247.52
+FR,Company Owned,48.89,2.24,Courbevoie,145.06,54.77,9.86,204.07
+FR,Company Owned,48.9,2.24,Courbevoie,107.34,81.91,6.2,61.22
+FR,Licensed,48.9,2.22,Nanterre,113.18,68.15,9.56,205.64
+FR,Licensed,48.74,2.4,Orly,94.84,91.4,8.31,127.23
+FR,Licensed,48.74,2.4,Orly,79.32,55.47,8.26,142.18
+FR,Licensed,48.88,2.33,Paris,82.87,68.57,8.0,242.43
+FR,Company Owned,48.86,2.33,PARIS,117.25,70.5,6.28,252.73
+FR,Company Owned,48.87,2.29,Paris,125.24,67.34,6.36,150.09
+FR,Company Owned,48.88,2.33,Paris,129.16,76.21,8.4,286.79
+FR,Company Owned,48.89,2.3,Paris,128.96,38.99,7.36,151.62
+FR,Company Owned,48.87,2.33,Paris,59.12,60.99,9.67,242.96
+FR,Company Owned,48.89,2.34,Paris,99.44,28.34,7.63,170.97
+FR,Company Owned,48.87,2.31,Paris,55.76,50.76,6.57,274.38
+FR,Licensed,48.88,2.36,Paris,104.95,59.01,8.86,276.94
+FR,Company Owned,48.88,2.28,Paris,94.15,72.18,7.17,71.85
+FR,Company Owned,48.85,2.37,Paris,138.77,96.04,8.1,284.12
+FR,Company Owned,48.88,2.34,Paris,85.09,68.05,8.79,256.38
+FR,Licensed,48.84,2.32,Paris,61.71,79.49,9.6,247.83
+FR,Company Owned,48.87,2.33,Paris,64.3,60.5,9.17,100.23
+FR,Company Owned,48.85,2.34,Paris,126.15,70.73,8.71,251.28
+FR,Company Owned,48.85,2.37,Paris,111.82,25.67,8.72,262.53
+FR,Licensed,48.85,2.33,Paris,60.11,40.35,9.78,122.29
+FR,Company Owned,48.86,2.35,Paris,58.41,48.95,7.18,288.07
+FR,Company Owned,48.87,2.33,Paris,120.1,57.8,6.0,62.47
+FR,Licensed,48.87,2.33,Paris,57.28,23.65,7.09,87.48
+FR,Company Owned,48.86,2.31,Paris,132.19,31.2,6.87,184.4
+FR,Licensed,48.88,2.36,Paris,120.62,42.15,8.65,193.95
+FR,Licensed,48.87,2.33,Paris,58.13,97.72,8.53,211.29
+FR,Company Owned,48.87,2.35,Paris,58.48,46.51,8.37,54.24
+FR,Company Owned,48.84,2.29,Paris,148.66,58.56,6.06,290.09
+FR,Company Owned,48.86,2.35,Paris,87.43,35.69,8.92,61.15
+FR,Company Owned,48.84,2.3,Paris,87.06,68.86,7.29,85.77
+FR,Company Owned,48.85,2.29,Paris,131.28,42.45,8.66,53.5
+FR,Company Owned,48.85,2.3,Paris,144.72,36.56,8.23,191.71
+FR,Company Owned,48.84,2.35,Paris,148.6,61.33,7.37,283.07
+FR,Company Owned,48.86,2.35,Paris,125.34,20.44,6.54,216.49
+FR,Licensed,48.85,2.37,Paris,87.63,20.61,6.38,255.66
+FR,Company Owned,48.86,2.35,Paris,58.35,37.53,9.33,53.32
+FR,Company Owned,48.84,2.33,Paris,127.71,22.94,9.67,185.5
+FR,Company Owned,48.85,2.34,Paris,105.84,28.64,8.6,164.89
+FR,Company Owned,48.88,2.3,Paris,92.42,47.11,6.41,174.74
+FR,Company Owned,48.83,2.39,Paris,140.64,84.21,7.61,68.05
+FR,Company Owned,48.86,2.35,Paris,61.12,65.76,8.92,221.11
+FR,Company Owned,48.84,2.32,Paris,99.26,61.01,9.12,175.81
+FR,Licensed,48.84,2.32,Paris,51.14,43.48,6.47,241.29
+FR,Company Owned,48.88,2.32,Paris,96.87,94.54,6.0,171.32
+FR,Company Owned,48.88,2.33,Paris,55.63,51.76,8.85,87.35
+FR,Company Owned,48.86,2.34,Paris,61.88,26.97,7.43,212.06
+FR,Licensed,48.88,2.33,Paris,61.75,69.37,7.02,93.1
+FR,Company Owned,48.83,2.33,Paris,114.92,29.11,6.05,268.1
+FR,Company Owned,48.86,2.36,Paris,124.6,47.62,8.16,203.28
+FR,Company Owned,48.87,2.3,Paris,108.34,60.59,9.4,89.3
+FR,Company Owned,48.87,2.34,Paris,146.22,89.94,9.83,290.58
+FR,Company Owned,48.87,2.33,Paris,87.49,59.48,8.26,179.59
+FR,Licensed,48.85,2.37,Paris,78.57,76.18,8.06,68.22
+FR,Company Owned,48.83,2.38,Paris,136.86,99.43,6.34,206.71
+FR,Company Owned,48.85,2.34,Paris,72.36,30.52,8.2,113.3
+FR,Company Owned,48.87,2.32,Paris,146.32,41.98,7.52,250.92
+FR,Licensed,48.88,2.36,Paris,51.22,51.57,8.43,254.46
+FR,Company Owned,48.87,2.35,Paris,146.99,53.75,7.55,294.74
+FR,Company Owned,48.86,2.28,Paris,54.32,52.88,6.96,175.47
+FR,Licensed,48.86,2.35,Paris,139.11,92.61,6.38,163.74
+FR,Company Owned,48.88,2.33,Paris,102.77,77.12,7.26,238.37
+FR,Licensed,48.85,2.28,Paris,149.3,68.63,6.39,83.12
+FR,Licensed,49.0,2.57,Paris,57.38,44.75,6.71,186.73
+FR,Company Owned,48.88,2.33,Paris,105.39,85.9,9.95,186.56
+FR,Company Owned,48.83,1.98,plaisir,146.93,96.4,7.78,72.37
+FR,Licensed,48.89,2.24,Puteaux,102.31,85.7,8.13,154.5
+FR,Company Owned,48.89,2.24,Puteaux,112.94,20.13,9.49,263.32
+FR,Licensed,49.0,2.58,Roissy-en-France,119.57,70.91,9.98,264.04
+FR,Licensed,49.01,2.54,Roissy-en-France,95.45,24.09,8.33,74.81
+FR,Licensed,49.0,2.56,Roissy-en-France,112.76,40.61,9.25,72.68
+FR,Licensed,49.01,2.55,Roissy-en-France,108.43,24.76,7.31,115.67
+FR,Licensed,49.01,2.55,Roissy-en-France,140.12,68.3,7.22,268.69
+FR,Licensed,49.01,2.55,Roissy-en-France,54.54,74.93,7.61,82.23
+FR,Company Owned,48.9,2.09,Saint Germain en Laye,78.1,29.16,8.69,230.0
+FR,Company Owned,48.78,2.04,Saint Quentin en Yvelines,145.04,50.71,8.73,75.29
+FR,Company Owned,48.85,2.78,Serris,139.03,56.5,7.26,205.78
+FR,Company Owned,48.76,2.37,Thiais,95.57,49.52,6.53,139.02
+FR,Company Owned,48.76,2.39,Thiais,112.01,29.68,8.53,247.23
+FR,Company Owned,48.99,2.52,TREMBLAY EN FRANCE,77.74,53.52,6.51,108.42
+FR,Company Owned,48.99,2.52,TREMBLAY EN FRANCE,68.81,80.09,8.31,209.8
+FR,Company Owned,48.78,2.22,Velizy-Villacoublay,96.37,25.68,8.77,108.92
+FR,Company Owned,48.8,2.13,Versailles,85.34,26.41,8.8,228.42
+FR,Licensed,43.61,3.89,Montpellier,108.37,48.38,9.01,268.42
+FR,Licensed,43.69,1.4,Fenouillet,57.77,95.34,9.49,81.7
+FR,Franchise,43.61,1.45,Toulouse,147.44,73.49,8.0,266.65
+FR,Company Owned,48.84,2.24,Boulogne,148.62,74.29,8.92,198.39
+FR,Licensed,50.93,1.81,Coquelles,119.82,48.95,8.48,81.78
+FR,Franchise,50.64,3.07,Lille,103.61,67.49,6.75,156.89
+FR,Franchise,50.64,3.06,Lille,80.95,20.81,6.1,90.22
+FR,Franchise,50.62,3.13,Valenciennes,131.38,70.89,7.14,225.09
+FR,Franchise,47.21,1.53,Nantes,118.47,93.06,7.77,239.72
+FR,Franchise,47.22,-1.56,Nantes,66.26,69.01,8.47,76.45
+FR,Franchise,47.21,-1.56,Nantes,141.09,89.9,9.4,176.53
+FR,Franchise,47.39,0.69,Tours,132.25,77.92,6.78,253.66
+FR,Licensed,49.46,2.11,Tillé,144.98,29.64,6.5,284.04
+FR,Licensed,43.55,7.02,Cannes,122.57,92.2,9.85,178.38
+FR,Licensed,43.42,5.22,Marignane,111.34,25.32,6.43,287.57
+FR,Licensed,43.42,5.21,Marignane,91.82,62.72,7.91,183.92
+FR,Company Owned,43.3,5.37,MARSEILLE,143.27,31.37,8.34,148.55
+FR,Company Owned,43.29,5.38,Marseille,136.61,20.94,8.17,262.05
+FR,Company Owned,43.36,5.35,marseille,54.52,53.76,6.34,173.25
+FR,Company Owned,43.31,5.36,Marseille,52.64,43.6,6.23,167.98
+FR,Licensed,43.29,5.48,Marseille,87.65,58.88,6.42,172.58
+FR,Company Owned,43.29,5.48,Marseille,131.06,66.18,8.34,261.7
+FR,Licensed,43.59,7.0,Mougins,148.73,23.5,8.18,257.99
+FR,Company Owned,43.7,7.27,nice,65.04,29.84,6.93,150.88
+FR,Licensed,43.67,7.21,Nice,109.41,64.69,8.55,133.32
+FR,Company Owned,43.66,7.2,Saint Laurent Du Var,88.09,47.45,9.28,172.98
+FR,Licensed,45.98,4.73,Villefranche sur Saone,146.99,78.33,6.17,193.19
+FR,Licensed,45.19,5.71,Grenoble,134.21,72.18,7.99,109.58
+FR,Licensed,45.76,4.84,Lyon,133.83,87.65,8.76,248.49
+FR,Company Owned,45.74,4.82,Lyon,96.87,75.4,7.01,171.62
+FR,Company Owned,45.76,4.86,Lyon,91.48,54.39,7.23,133.51
+FR,Licensed,45.76,4.86,Lyon,77.34,73.84,8.45,76.71
+FR,Company Owned,45.77,4.84,Lyon,55.64,42.03,9.59,109.71
+FR,Company Owned,45.76,4.84,Lyon,136.47,44.51,9.24,287.32
+FR,Licensed,45.72,5.08,Lyon,131.29,83.12,8.33,126.27
+FR,Company Owned,45.77,4.88,Villeurbanne,149.97,55.71,8.92,92.21
+GB,Licensed,51.54,-2.57,Almondsbury,149.66,83.87,7.46,165.17
+GB,Company Owned,53.38,-2.35,Altrincham,105.54,85.79,8.56,126.77
+GB,Licensed,51.14,0.88,Ashford,126.9,88.6,7.86,58.79
+GB,Franchise,51.15,0.87,Ashford,144.48,93.33,6.76,130.79
+GB,Licensed,52.22,-1.51,Ashorne,134.96,54.48,8.81,186.03
+GB,Licensed,52.22,-1.5,Ashorne,74.73,45.51,8.23,187.93
+GB,Company Owned,52.01,-0.2,Baldock,95.05,66.58,7.43,139.14
+GB,Franchise,52.08,-1.32,Banbury,62.92,49.69,9.65,161.83
+GB,Company Owned,51.48,-0.24,Barnes,145.41,68.09,6.08,291.38
+GB,Company Owned,51.66,-0.2,Barnet,110.62,76.45,7.26,144.34
+GB,Licensed,51.59,0.48,Basildon,72.86,75.07,6.23,114.56
+GB,Franchise,51.57,0.46,Basildon,117.17,49.96,9.07,110.87
+GB,Franchise,51.27,-1.11,Basingstoke,111.81,33.35,8.81,164.44
+GB,Franchise,51.27,-1.08,Basingstoke,85.82,54.44,7.33,239.88
+GB,Franchise,51.27,-1.09,Basingstoke,61.36,31.41,8.7,101.5
+GB,Licensed,51.38,-2.36,Bath,117.16,91.21,7.58,227.32
+GB,Franchise,51.38,-2.36,Bath,102.03,47.67,9.03,55.29
+GB,Company Owned,51.38,-2.36,Bath,127.23,32.36,7.82,154.73
+GB,Company Owned,51.61,-0.64,Beaconsfield,102.02,22.04,7.65,243.97
+GB,Company Owned,51.59,-0.63,Beaconsfield,135.22,71.67,9.74,134.68
+GB,Licensed,52.03,-0.49,Bedford,105.19,70.95,7.0,190.93
+GB,Licensed,52.03,-0.49,Bedford,106.09,47.25,6.48,101.24
+GB,Licensed,52.14,-0.48,Bedford,137.67,25.74,8.34,235.5
+GB,Licensed,52.03,-0.49,Bedford,90.35,52.77,9.88,63.07
+GB,Licensed,51.48,-1.56,Berkshire,63.4,44.9,7.51,263.14
+GB,Licensed,51.48,-1.56,Berkshire,52.88,74.17,6.25,99.55
+GB,Franchise,51.41,-0.67,Berkshire,125.51,68.46,7.36,268.6
+GB,Franchise,53.84,-0.42,Beverley,112.03,49.17,8.02,138.13
+GB,Company Owned,51.46,0.15,Bexleyheath,120.41,37.43,6.65,230.67
+GB,Franchise,53.54,-2.83,Bickerstaffe,71.3,99.04,8.63,129.81
+GB,Franchise,51.02,-4.22,Bideford,63.64,56.32,9.99,276.48
+GB,Licensed,52.48,-1.91,Birmingham,51.45,75.06,7.81,81.66
+GB,Company Owned,52.48,-1.89,Birmingham,85.06,31.24,7.42,94.63
+GB,Licensed,52.47,-1.91,Birmingham,108.99,58.85,7.6,173.26
+GB,Licensed,52.45,-1.73,Birmingham,89.22,22.2,6.46,70.48
+GB,Licensed,52.45,-1.72,Birmingham,93.75,60.44,9.53,99.0
+GB,Licensed,52.36,-1.95,Birmingham,140.42,97.12,7.66,285.94
+GB,Licensed,52.48,-1.9,Birmingham,84.83,50.74,7.55,294.12
+GB,Company Owned,52.48,-1.9,Birmingham,101.4,23.12,8.64,144.06
+GB,Company Owned,52.48,-1.89,Birmingham,128.37,22.48,7.77,280.82
+GB,Company Owned,52.48,-1.9,Birmingham,89.65,51.04,8.59,186.21
+GB,Licensed,52.45,-1.72,Birmingham,112.21,32.8,6.25,117.44
+GB,Licensed,52.36,-1.95,Birmingham,136.24,21.87,9.25,225.6
+GB,Licensed,52.48,-1.91,Birmingham,144.95,80.5,9.76,214.73
+GB,Company Owned,52.51,-1.82,Birmingham,64.71,56.68,8.6,297.28
+GB,Licensed,52.48,-1.91,Birmingham,142.66,43.14,9.82,116.26
+GB,Company Owned,52.48,-1.89,Birmingham,99.21,92.01,6.61,218.01
+GB,Licensed,52.36,-1.95,Birmingham,75.82,29.29,7.91,63.01
+GB,Franchise,53.74,-1.64,Birstall,95.91,96.47,8.41,78.41
+GB,Franchise,51.87,0.16,Bishop's Stortford,148.0,45.12,8.33,50.98
+GB,Licensed,51.87,0.19,Bishops Storford,99.26,91.07,7.61,299.87
+GB,Franchise,53.73,-2.45,Blackburn,82.88,68.24,7.35,250.57
+GB,Franchise,53.82,-3.05,Blackpool,113.34,86.14,6.51,246.68
+GB,Licensed,53.81,-3.01,Blackpool,74.01,98.72,7.57,177.43
+GB,Licensed,54.95,-1.47,Boldon,57.59,43.07,6.65,125.02
+GB,Franchise,53.6,-2.58,Bolton,62.89,96.89,8.94,87.82
+GB,Company Owned,53.58,-2.43,Bolton,62.8,51.16,6.84,121.17
+GB,Franchise,53.6,-2.57,Bolton,65.19,50.84,6.23,143.99
+GB,Franchise,50.72,-1.88,Bournemouth,63.88,47.23,8.21,239.08
+GB,Franchise,50.72,-1.9,Bournemouth,114.09,63.31,8.38,184.92
+GB,Franchise,50.72,-1.86,Bournemouth,68.19,32.33,9.49,69.37
+GB,Licensed,50.75,-1.82,Bournemouth,84.57,64.3,8.31,54.51
+GB,Franchise,50.72,-1.88,Bournemouth,139.68,63.34,7.38,75.58
+GB,Licensed,50.73,-1.86,Bournemouth,97.4,80.95,9.21,152.62
+GB,Company Owned,51.39,-0.74,Bracknell,116.76,86.69,8.16,283.3
+GB,Franchise,53.79,-1.75,Bradford,67.23,55.24,6.32,209.35
+GB,Franchise,53.77,-1.73,Bradford,69.23,44.19,8.26,250.46
+GB,Licensed,51.87,0.57,Braintree,54.09,40.75,9.63,166.59
+GB,Company Owned,51.87,0.57,Braintree,66.89,35.57,7.59,140.42
+GB,Licensed,52.45,0.63,Brandon,77.86,24.61,7.19,77.1
+GB,Licensed,52.45,0.63,Brandon,67.7,47.4,6.57,268.98
+GB,Franchise,51.62,0.3,Brentwood,58.87,41.62,6.61,245.79
+GB,Franchise,51.5,-3.54,Bridgend,62.06,97.31,7.73,92.03
+GB,Company Owned,52.48,-2.11,Brierley Hill,96.08,64.62,8.38,178.07
+GB,Licensed,53.71,-1.75,Brighouse,70.63,47.78,6.32,171.84
+GB,Franchise,50.82,-0.15,Brighton,86.43,66.44,9.76,206.27
+GB,Franchise,50.82,-0.14,Brighton,100.34,31.14,9.02,286.55
+GB,Franchise,50.82,-0.14,Brighton,119.04,55.52,8.35,194.94
+GB,Company Owned,51.46,-2.59,Bristol,53.93,70.1,9.31,185.05
+GB,Franchise,51.46,-2.59,Bristol,129.94,59.11,6.32,62.58
+GB,Company Owned,51.53,-2.6,Bristol,112.79,52.14,7.91,65.73
+GB,Licensed,51.48,-2.75,Bristol,58.18,99.51,8.52,96.84
+GB,Company Owned,51.46,-2.59,Bristol,137.36,90.43,9.31,58.12
+GB,Franchise,51.46,-2.61,Bristol,142.09,69.87,9.13,235.84
+GB,Licensed,51.45,-2.58,Bristol,56.11,65.55,7.11,230.83
+GB,Licensed,51.39,-2.71,Bristol,77.69,69.65,9.76,84.01
+GB,Licensed,51.48,-2.71,Bristol,130.62,36.1,6.5,259.02
+GB,Company Owned,51.45,-2.58,Bristol,124.83,51.61,9.5,88.7
+GB,Licensed,51.48,-2.71,Bristol,68.45,23.16,9.88,125.29
+GB,Licensed,51.53,-2.6,Bristol,70.93,58.04,6.71,112.24
+GB,Company Owned,51.4,0.02,Bromley,87.05,63.44,8.89,143.08
+GB,Company Owned,51.4,0.02,Bromley,98.45,38.22,6.16,113.67
+GB,Company Owned,51.41,0.02,Bromley,111.83,97.12,7.62,172.24
+GB,Franchise,53.17,-2.97,Broughton,86.89,92.76,8.07,151.85
+GB,Licensed,52.08,-0.75,Buckinghamshire,96.25,77.77,8.32,296.64
+GB,Licensed,52.08,-0.75,Buckinghamshire,124.75,62.67,9.74,63.98
+GB,Company Owned,51.26,-0.54,Burpham,53.67,89.6,8.69,85.55
+GB,Licensed,53.59,-2.28,Bury,75.24,30.45,7.93,63.21
+GB,Franchise,52.25,0.71,Bury St Edmunds,121.33,83.24,9.24,206.46
+GB,Company Owned,51.32,-0.76,Camberley,139.52,29.99,9.8,63.63
+GB,Franchise,51.34,-0.75,Camberley,101.17,83.54,6.09,259.11
+GB,Franchise,52.21,0.12,Cambridge,103.21,42.06,9.93,177.98
+GB,Franchise,52.21,0.14,Cambridge,60.72,90.17,6.34,181.75
+GB,Franchise,52.55,-0.3,Cambridge,94.74,95.52,9.26,190.4
+GB,Franchise,52.2,0.12,Cambridge,103.26,31.9,7.12,92.7
+GB,Licensed,52.19,0.14,Cambridge,74.25,57.01,6.53,99.42
+GB,Franchise,52.21,0.13,Cambridge,76.92,98.48,7.76,129.7
+GB,Franchise,51.28,1.08,Canterbury,87.73,58.67,8.58,198.37
+GB,Company Owned,51.28,1.08,Canterbury,52.01,89.08,7.52,102.53
+GB,Licensed,51.51,-3.19,Cardiff,82.21,67.1,6.22,79.08
+GB,Company Owned,54.9,-2.94,Carlisle,71.14,50.03,8.4,292.53
+GB,Franchise,53.71,-1.34,Castleford,82.75,42.86,9.61,55.5
+GB,Franchise,53.71,-1.34,Castleford,61.98,36.26,7.53,250.67
+GB,Franchise,51.4,0.53,Chaltham,139.05,80.94,6.87,247.01
+GB,Licensed,51.38,0.52,Chatham,109.36,50.92,7.77,124.3
+GB,Licensed,53.39,-2.21,Cheadle,117.91,60.9,6.19,83.91
+GB,Franchise,51.73,0.47,Chelmsford,128.92,59.39,9.28,86.41
+GB,Company Owned,51.73,0.47,Chelmsford,99.84,66.18,9.31,224.36
+GB,Franchise,51.9,-2.08,Cheltenham,58.69,89.25,8.35,210.7
+GB,Licensed,53.42,-2.64,Cheshire,103.71,98.46,7.41,245.69
+GB,Franchise,53.26,-2.89,Cheshire,108.68,52.61,9.2,284.37
+GB,Franchise,53.19,-2.89,Chester,124.54,86.2,8.22,222.98
+GB,Franchise,53.23,-3.01,Chester,93.17,81.16,9.3,88.96
+GB,Licensed,53.81,-3.01,Chester,62.76,65.88,8.53,110.86
+GB,Franchise,53.24,-1.33,Chesterfield,78.38,96.48,9.14,260.55
+GB,Franchise,53.2,-1.34,Chesterfield,86.31,36.04,8.39,102.33
+GB,Franchise,50.84,-0.78,Chichester,114.59,28.74,7.66,68.13
+GB,Company Owned,51.72,-0.36,Chiswell Green,107.08,88.32,9.83,225.82
+GB,Company Owned,51.5,-0.28,Chiswick,85.61,55.13,8.16,150.63
+GB,Franchise,53.63,-2.69,Chorley,148.65,87.76,8.42,280.01
+GB,Licensed,53.63,-2.69,Chorley,110.58,91.45,6.88,212.56
+GB,Licensed,53.63,-2.69,Chorley,73.72,25.0,8.5,72.6
+GB,Licensed,51.72,-1.97,Cirencester,60.18,90.68,8.29,286.96
+GB,Franchise,53.74,-1.72,Cleckheaton,65.29,55.87,6.74,114.64
+GB,Franchise,51.33,-0.41,Cobham,74.6,60.83,6.24,134.3
+GB,Franchise,54.65,-3.37,Cockermouth,66.07,70.13,8.42,150.57
+GB,Franchise,51.89,0.9,Colchester,68.66,94.11,9.05,62.81
+GB,Licensed,52.47,-1.55,Corley,78.51,21.53,8.09,174.13
+GB,Company Owned,52.44,-1.49,Coventry,67.34,58.15,6.91,80.83
+GB,Company Owned,52.41,-1.51,Coventry,139.68,75.02,8.67,150.24
+GB,Licensed,52.47,-1.55,Coventry,58.02,77.82,6.32,137.68
+GB,Licensed,52.47,-1.55,Coventry,102.45,75.4,7.77,243.21
+GB,Licensed,52.4,-1.55,Coventry,91.04,30.75,6.65,250.79
+GB,Licensed,52.4,-1.5,Coventry,148.24,43.95,6.74,88.35
+GB,Licensed,52.4,-1.51,Coventry,61.2,48.7,6.81,141.64
+GB,Licensed,51.12,-0.18,Crawley,89.79,84.35,7.55,143.34
+GB,Franchise,51.12,-0.19,Crawley,146.95,42.3,6.2,87.85
+GB,Franchise,53.1,-2.44,Crewe,136.55,36.86,7.59,249.61
+GB,Company Owned,51.38,-0.1,Croydon,131.71,96.6,8.05,226.81
+GB,Company Owned,51.38,-0.1,Croydon,75.79,20.71,7.93,97.6
+GB,Licensed,51.37,-0.09,Croydon,67.09,99.83,7.53,141.68
+GB,Company Owned,54.53,-1.55,Darlington,116.86,74.15,9.36,76.45
+GB,Franchise,51.22,1.4,Deal,142.94,86.28,6.58,207.05
+GB,Licensed,52.92,-1.45,Derby,105.68,43.57,8.02,80.34
+GB,Company Owned,52.92,-1.48,Derby,107.16,21.15,6.25,296.48
+GB,Franchise,52.96,-1.46,Derby,78.0,79.03,6.28,245.17
+GB,Franchise,51.77,-2.81,Dingestow,126.95,86.73,8.3,147.56
+GB,Franchise,53.52,-1.14,Doncaster,68.7,79.24,8.26,194.64
+GB,Licensed,53.52,-1.14,Doncaster,82.37,31.43,9.51,277.84
+GB,Licensed,52.51,-2.07,Dudley,92.54,80.27,8.23,188.52
+GB,Licensed,54.78,-1.57,Durham,100.76,81.51,9.84,93.62
+GB,Company Owned,54.82,-1.37,Durham,74.24,72.68,6.19,144.68
+GB,Company Owned,54.78,-1.58,Durham,61.48,81.29,6.39,260.79
+GB,Franchise,54.85,-1.84,Durham,111.06,87.67,6.18,211.05
+GB,Franchise,54.64,-1.69,Durham,78.86,69.09,6.74,212.68
+GB,Company Owned,51.51,-0.31,Ealing,108.12,27.09,8.17,266.71
+GB,Company Owned,51.51,-0.3,Ealing,65.44,59.01,8.58,273.49
+GB,Company Owned,51.13,-0.02,East Grinstead,98.11,26.21,6.18,279.95
+GB,Franchise,50.77,0.28,Eastbourne,103.26,52.6,9.78,73.71
+GB,Franchise,52.47,-1.92,Edgbaston,55.18,52.57,9.37,186.03
+GB,Licensed,52.45,-1.93,Edgbaston,83.66,25.28,7.19,235.13
+GB,Franchise,51.61,-0.28,Edgeware,63.44,47.91,6.31,239.23
+GB,Franchise,55.96,-3.18,Edinburgh,56.34,28.88,6.68,201.68
+GB,Licensed,51.64,-0.31,Elstree,149.0,84.66,6.51,91.7
+GB,Franchise,52.4,0.27,Ely,82.24,95.82,6.49,249.36
+GB,Franchise,50.85,-0.95,Emsworth,130.99,25.79,8.07,230.03
+GB,Franchise,51.7,0.11,Epping,75.46,96.41,6.98,71.53
+GB,Franchise,51.33,-0.27,Epsom,118.15,61.81,7.43,165.95
+GB,Licensed,51.49,0.28,Essex,126.02,43.97,9.96,93.49
+GB,Licensed,51.87,0.19,Essex,109.56,26.15,8.74,134.37
+GB,Franchise,50.71,-3.53,Exeter,97.16,60.05,9.8,54.52
+GB,Licensed,50.73,-3.54,Exeter,91.18,83.56,6.57,150.08
+GB,Franchise,50.72,-3.53,Exeter,84.89,76.57,7.53,187.47
+GB,Licensed,50.64,-3.4,Exmouth,142.95,24.02,8.22,204.9
+GB,Licensed,51.29,-0.76,Farnborough,133.06,25.83,6.31,215.87
+GB,Franchise,51.21,-0.8,Farnham,146.5,52.23,6.02,259.07
+GB,Company Owned,51.22,-0.78,Farnham,62.43,43.62,8.68,103.87
+GB,Franchise,51.45,-0.41,Feltham,123.09,38.59,8.57,80.12
+GB,Licensed,51.3,-0.86,Fleet,143.83,42.48,7.64,262.88
+GB,Licensed,51.3,-0.86,Fleet,68.12,84.28,7.96,89.15
+GB,Franchise,51.08,1.18,Folkestone,56.65,94.34,7.66,293.69
+GB,Licensed,51.12,1.11,Folkestone,124.11,52.41,6.1,260.63
+GB,Franchise,50.39,-4.92,Fraddon,107.45,92.49,7.34,175.22
+GB,Company Owned,54.92,-1.62,Gateshead,134.18,45.72,6.71,295.36
+GB,Company Owned,54.96,-1.67,Gateshead,63.98,58.11,6.39,74.34
+GB,Company Owned,54.96,-1.67,Gateshead,129.53,38.08,9.83,125.77
+GB,Licensed,51.66,-2.43,Gloucestershire,70.16,71.24,8.4,209.56
+GB,Licensed,51.66,-2.43,Gloucestershire,66.37,98.32,8.91,137.5
+GB,Licensed,51.66,-2.43,Gloucestershire,66.43,68.28,7.26,282.09
+GB,Licensed,51.66,-2.43,Gloucestershire,131.46,48.63,7.57,66.41
+GB,Licensed,52.91,-0.64,Grantham,116.52,71.83,6.95,187.35
+GB,Franchise,52.61,1.73,Great Yarmouth,102.31,29.83,6.39,197.72
+GB,Company Owned,51.44,0.27,Greenhithe,85.88,91.09,6.72,213.18
+GB,Company Owned,51.44,0.27,Greenhithie,137.72,60.25,9.19,113.92
+GB,Franchise,51.24,-0.58,Guildford,89.24,55.95,8.71,141.14
+GB,Franchise,51.29,-0.49,Guildford,131.66,66.87,8.19,260.92
+GB,Licensed,51.24,-0.59,Guildford,93.91,69.98,7.9,98.74
+GB,Franchise,51.24,-0.57,Guildford,87.69,25.74,9.69,256.72
+GB,Licensed,51.24,-0.61,Guildford,96.27,74.61,6.29,190.66
+GB,Franchise,50.88,0.23,Hailsham,80.14,39.35,7.12,240.55
+GB,Company Owned,51.49,-0.22,HAMMERSMITH,124.76,77.12,7.4,228.4
+GB,Licensed,51.3,-0.86,Hampshire,100.27,85.8,9.13,101.88
+GB,Licensed,51.3,-0.86,Hampshire,73.22,84.32,9.97,192.2
+GB,Licensed,51.3,-0.86,Hampshire,139.96,64.2,6.96,266.93
+GB,Franchise,51.29,-0.76,Hampshire,88.39,61.61,9.5,158.03
+GB,Licensed,51.3,-0.41,Hampsire,104.36,31.43,9.32,291.65
+GB,Company Owned,51.43,-0.38,Hampton,140.65,82.03,6.9,163.05
+GB,Company Owned,53.03,-2.18,"Hanley, Stoke-on-Trent",112.42,41.71,7.6,85.7
+GB,Franchise,51.28,-0.84,Hants,61.69,59.74,7.64,147.36
+GB,Licensed,51.3,-0.86,Hants,143.98,42.74,9.91,287.93
+GB,Franchise,51.77,0.09,Harlow,112.77,30.71,6.72,129.93
+GB,Franchise,53.99,-1.54,Harrogate,83.49,70.36,9.2,267.02
+GB,Franchise,51.58,-0.34,Harrow,63.93,24.35,7.34,270.31
+GB,Licensed,51.48,-0.42,Hayes,129.4,79.89,8.92,137.55
+GB,Company Owned,51.01,-0.11,Haywards Heath,112.01,45.41,7.68,70.81
+GB,Franchise,51.76,-1.21,Headington,103.35,20.01,8.31,231.14
+GB,Franchise,51.48,-0.42,Heathrow,139.39,60.89,9.33,127.88
+GB,Franchise,51.75,-0.47,Hemel Hempstead,128.86,23.75,9.22,245.73
+GB,Franchise,51.54,-0.9,Henley-on-Thames,65.17,42.09,9.47,160.66
+GB,Franchise,52.06,-2.71,Hereford,81.17,76.56,6.24,171.32
+GB,Franchise,51.8,-0.08,Hertford,74.85,25.02,8.77,244.48
+GB,Licensed,51.87,0.19,Hertfordshire,124.39,87.15,6.56,145.59
+GB,Licensed,51.69,-0.22,Hertforshire,53.35,20.31,7.66,160.78
+GB,Franchise,54.98,-2.09,Hexham,106.99,39.75,8.19,144.05
+GB,Franchise,51.63,-0.75,High Wycombe,126.25,79.27,7.61,141.84
+GB,Franchise,51.95,-0.28,Hitchin,137.68,45.3,8.08,181.49
+GB,Franchise,51.56,0.22,Hornchurch,84.21,28.15,9.99,252.2
+GB,Franchise,53.58,-2.53,Horwich,132.13,48.82,6.54,140.44
+GB,Franchise,51.47,-0.36,Hounslow,61.06,41.63,8.7,181.06
+GB,Licensed,51.47,-0.48,Hounslow,134.65,87.42,7.58,217.68
+GB,Licensed,51.47,-0.49,Houslow,62.75,45.07,6.53,117.36
+GB,Franchise,50.83,-0.16,Hove,89.73,83.11,6.63,119.38
+GB,Company Owned,53.74,-0.33,Hull,129.73,91.35,9.8,283.35
+GB,Licensed,53.72,-0.41,Hull,64.99,54.71,9.52,230.88
+GB,Licensed,51.48,-1.56,Hungerford,72.93,92.8,9.63,194.3
+GB,Licensed,51.48,-1.56,Hungerford,122.23,50.19,9.97,211.93
+GB,Licensed,51.48,-1.56,Hungerford,122.0,97.13,6.83,57.32
+GB,Franchise,52.33,-0.18,Huntingdon,114.11,27.14,7.42,204.53
+GB,Licensed,53.47,-2.09,Hyde,119.39,74.96,8.68,177.38
+GB,Franchise,51.56,0.07,Ilford,104.27,59.51,7.94,186.44
+GB,Franchise,52.06,1.16,Ipswich,75.18,51.01,7.67,139.86
+GB,Licensed,52.05,1.14,Ipswich,84.57,70.62,7.43,70.37
+GB,Licensed,52.05,1.15,Ipswich,68.16,76.31,8.38,98.33
+GB,Franchise,52.0,1.06,Ipswich,140.85,20.35,8.3,287.69
+GB,Franchise,54.15,-4.48,Isle of Man,108.34,33.36,6.65,152.17
+GB,Licensed,52.34,-1.58,Kenilworth,90.09,77.04,7.89,166.67
+GB,Licensed,51.63,-0.26,Kent,96.2,73.31,8.21,63.18
+GB,Franchise,52.43,-0.73,Kettering,144.73,97.28,8.28,59.39
+GB,Company Owned,52.39,-2.25,Kidderminster,65.34,80.88,6.84,229.3
+GB,Company Owned,51.54,-0.19,KILBURN,108.62,96.06,8.97,184.52
+GB,Company Owned,51.41,-0.3,Kingston Upon Thames,100.59,76.2,6.1,177.18
+GB,Licensed,55.51,-3.69,Lanarkshire,111.15,43.84,7.42,110.78
+GB,Licensed,53.78,-2.9,Lancashire,51.81,28.43,9.12,236.19
+GB,Franchise,54.05,-2.8,Lancaster,137.21,82.55,8.26,92.06
+GB,Company Owned,52.28,-1.55,Leamington Spa,143.21,71.53,7.04,97.48
+GB,Franchise,52.29,-1.53,Leamington Spa,106.51,23.85,8.78,165.18
+GB,Licensed,53.84,-1.59,Leeds,119.67,48.8,8.27,121.57
+GB,Franchise,53.8,-1.54,Leeds,142.25,96.54,9.18,111.87
+GB,Franchise,53.84,-1.5,Leeds,120.72,60.03,8.94,211.31
+GB,Franchise,53.8,-1.55,Leeds,65.25,54.62,8.44,212.74
+GB,Licensed,53.73,-1.59,Leeds,107.63,56.62,7.95,256.13
+GB,Company Owned,53.79,-1.55,Leeds,110.67,36.71,6.53,154.43
+GB,Company Owned,53.8,-1.55,Leeds,92.41,49.5,7.05,68.27
+GB,Franchise,53.8,-1.56,Leeds,123.64,49.59,7.68,118.42
+GB,Franchise,53.8,-1.54,Leeds,143.44,24.19,8.4,295.0
+GB,Franchise,53.79,-1.55,Leeds,142.56,81.41,8.05,199.06
+GB,Franchise,53.8,-1.55,Leeds City Point,95.08,53.32,7.15,227.43
+GB,Company Owned,52.68,-1.09,Leicester,61.32,85.77,6.03,51.84
+GB,Licensed,52.62,-1.13,Leicester,148.48,88.03,7.98,179.55
+GB,Company Owned,52.64,-1.14,Leicester,133.89,36.96,7.14,59.38
+GB,Franchise,52.63,-1.15,Leicester,62.47,72.59,8.94,192.31
+GB,Licensed,52.62,-1.21,Leicester,142.08,57.78,6.1,280.19
+GB,Licensed,52.62,-1.21,Leicester,136.99,90.41,8.34,292.1
+GB,Licensed,52.62,-1.21,Leicester,101.88,37.26,9.77,185.14
+GB,Franchise,53.23,-0.54,Lincoln,109.13,74.23,6.7,164.55
+GB,Franchise,53.22,-0.55,Lincoln,89.9,68.62,7.89,286.25
+GB,Licensed,53.23,-0.55,Lincoln,55.48,43.62,6.37,218.4
+GB,Franchise,51.08,-0.82,Liphook,83.52,30.93,8.5,66.22
+GB,Licensed,51.08,-0.83,Liphook,130.29,72.13,8.2,166.43
+GB,Licensed,53.41,-2.98,Liverpool,50.46,79.09,7.63,110.06
+GB,Franchise,53.35,-2.85,Liverpool,83.35,45.25,8.09,167.45
+GB,Licensed,53.34,-2.86,Liverpool,89.82,71.59,9.59,163.87
+GB,Licensed,53.41,-2.96,Liverpool,103.74,51.61,6.79,195.54
+GB,Franchise,53.46,-2.92,Liverpool,141.99,77.06,6.09,139.19
+GB,Licensed,53.34,-2.86,Liverpool,84.63,35.94,9.45,91.07
+GB,Franchise,53.41,-2.99,Liverpool,84.7,91.22,8.31,175.93
+GB,Franchise,53.41,-2.97,Liverpool,123.75,42.99,9.56,257.55
+GB,Franchise,53.4,-2.99,Liverpool,95.22,49.42,8.39,216.0
+GB,Franchise,53.4,-2.99,Liverpool,72.46,24.65,9.24,134.59
+GB,Licensed,53.41,-2.97,Liverpool,95.24,28.92,7.72,283.88
+GB,Franchise,53.4,-2.97,Liverpool,64.09,61.27,9.0,278.05
+GB,Company Owned,51.46,-0.17,London,67.64,41.41,9.65,102.34
+GB,Company Owned,51.46,-0.11,London,99.84,86.84,8.29,59.85
+GB,Franchise,51.88,0.25,London,91.89,21.18,6.72,235.33
+GB,Company Owned,51.51,-0.1,London,141.48,50.33,7.08,256.9
+GB,Company Owned,51.53,-0.12,London,86.24,46.99,6.79,291.97
+GB,Company Owned,51.49,-0.19,London,108.06,21.55,6.99,272.46
+GB,Company Owned,51.52,-0.21,London,113.23,29.95,7.23,200.13
+GB,Company Owned,51.52,-0.14,London,51.31,53.09,8.22,182.51
+GB,Company Owned,51.5,-0.02,London,116.35,59.43,8.35,56.96
+GB,Company Owned,51.44,-0.15,London,67.8,52.34,7.71,111.66
+GB,Company Owned,51.49,-0.19,London,146.11,62.48,8.46,164.9
+GB,Company Owned,51.51,-0.09,London,64.87,67.61,6.33,207.13
+GB,Company Owned,51.52,-0.15,London,91.46,20.79,6.35,189.31
+GB,Company Owned,51.43,-0.17,London,58.53,57.13,6.69,235.66
+GB,Company Owned,51.53,-0.11,London,149.69,97.08,8.07,119.94
+GB,Company Owned,51.49,-0.15,London,100.22,61.52,6.86,191.24
+GB,Franchise,51.51,-0.22,London,109.54,74.2,7.13,72.04
+GB,Company Owned,51.51,-0.3,London,56.71,44.95,7.6,153.42
+GB,Company Owned,51.52,-0.09,London,125.0,81.92,9.25,237.54
+GB,Company Owned,51.5,-0.19,London,70.99,81.83,6.06,223.35
+GB,Company Owned,51.51,-0.22,London,139.81,61.7,8.6,297.66
+GB,Company Owned,51.46,-0.08,London,70.51,98.08,8.68,119.47
+GB,Company Owned,51.5,-0.14,London,69.07,30.04,9.19,174.55
+GB,Company Owned,51.5,-0.18,London,53.65,21.36,9.73,132.38
+GB,Company Owned,51.48,-0.19,London,97.21,81.61,6.08,160.15
+GB,Company Owned,51.52,-0.12,London,106.48,84.57,6.62,264.24
+GB,Company Owned,51.59,-0.14,London,56.57,29.62,9.54,221.05
+GB,Franchise,51.57,-0.13,London,127.55,41.25,7.83,270.61
+GB,Company Owned,51.46,-0.14,London,95.33,21.4,8.26,100.88
+GB,Company Owned,51.5,0.0,London,102.44,43.46,8.65,268.34
+GB,Company Owned,51.52,-0.14,London,94.08,81.85,8.72,64.94
+GB,Company Owned,51.53,-0.13,London,90.08,61.44,9.73,272.15
+GB,Licensed,51.47,-0.19,London,105.96,47.85,9.99,132.27
+GB,Company Owned,51.51,-0.2,London,65.52,49.74,8.88,128.65
+GB,Company Owned,51.5,-0.22,London,68.19,20.11,7.15,178.02
+GB,Company Owned,51.51,-0.15,London,136.18,43.98,9.52,285.17
+GB,Company Owned,51.52,-0.09,London,144.61,71.72,6.2,61.95
+GB,Company Owned,51.51,-0.14,London,87.33,97.94,6.92,138.06
+GB,Company Owned,51.52,-0.1,London,77.07,87.76,9.59,264.14
+GB,Company Owned,51.51,-0.08,London,114.4,21.89,7.02,149.01
+GB,Company Owned,51.52,-0.13,London,90.87,91.88,6.88,99.79
+GB,Licensed,51.52,-0.08,London,52.54,82.66,6.55,156.2
+GB,Company Owned,51.51,-0.23,London,65.62,82.43,9.44,146.39
+GB,Company Owned,51.5,-0.19,London,121.6,56.64,8.0,278.85
+GB,Company Owned,51.58,-0.24,London,115.89,51.84,8.7,240.48
+GB,Company Owned,51.63,-0.1,London,52.71,44.23,6.96,176.28
+GB,Company Owned,51.51,-0.08,London,72.2,25.26,9.03,297.09
+GB,Company Owned,51.52,-0.12,London,73.11,38.26,9.04,166.32
+GB,Franchise,51.51,0.03,London,117.19,39.73,7.25,64.56
+GB,Company Owned,51.51,-0.13,London,51.97,58.73,7.64,115.57
+GB,Company Owned,51.52,-0.16,London,60.41,79.8,6.84,159.02
+GB,Company Owned,51.51,-0.13,London,129.99,57.9,9.91,89.23
+GB,Company Owned,51.49,-0.18,London,67.85,24.63,8.58,286.89
+GB,Company Owned,51.51,-0.21,London,115.27,96.62,9.74,241.71
+GB,Franchise,51.5,-0.16,London,73.82,95.42,7.21,117.07
+GB,Company Owned,51.55,-0.17,London,59.94,82.82,9.13,197.7
+GB,Company Owned,51.62,-0.11,London,74.32,99.31,9.06,230.36
+GB,Company Owned,51.52,-0.18,London,122.23,63.56,8.77,285.32
+GB,Company Owned,51.52,-0.12,London,135.57,97.02,9.86,270.41
+GB,Licensed,51.52,-0.08,London,133.02,26.05,7.57,178.8
+GB,Company Owned,51.53,-0.14,London,89.72,49.25,6.52,243.66
+GB,Company Owned,51.49,-0.05,London,116.81,38.03,8.69,190.54
+GB,Company Owned,51.51,-0.13,London,70.5,35.67,8.92,188.18
+GB,Company Owned,51.52,-0.14,London,79.31,31.26,8.3,78.69
+GB,Company Owned,51.57,-0.2,London,139.63,69.79,6.83,81.53
+GB,Company Owned,51.62,-0.18,London,51.3,82.51,8.02,182.38
+GB,Company Owned,51.49,-0.12,London,58.55,66.26,7.25,117.22
+GB,Company Owned,51.51,-0.1,London,70.79,31.76,7.71,55.26
+GB,Company Owned,51.51,-0.12,London,52.65,84.89,8.58,230.71
+GB,Company Owned,51.55,-0.19,London,68.14,70.88,8.98,58.12
+GB,Company Owned,51.51,-0.12,London,108.3,51.05,6.93,198.82
+GB,Company Owned,51.51,-0.19,London,92.14,73.93,7.62,184.8
+GB,Franchise,51.49,-0.15,London,139.27,40.79,7.08,292.2
+GB,Company Owned,51.52,-0.14,London,131.74,47.62,6.79,171.05
+GB,Company Owned,51.46,-0.17,London,84.18,93.4,9.13,65.9
+GB,Company Owned,51.51,-0.08,London,75.94,43.24,9.64,187.92
+GB,Licensed,51.5,-0.11,London,87.97,57.6,7.48,260.27
+GB,Company Owned,51.51,-0.07,London,109.03,91.21,9.01,299.21
+GB,Licensed,51.53,-0.12,London,76.81,76.62,9.59,157.59
+GB,Licensed,51.49,-0.18,London,112.41,24.98,9.38,130.07
+GB,Company Owned,51.51,-0.15,London,90.94,31.78,6.73,276.66
+GB,Company Owned,51.53,-0.13,London,105.2,20.63,9.83,97.81
+GB,Company Owned,51.52,-0.07,London,93.61,70.47,7.51,203.86
+GB,Company Owned,51.53,-0.19,London,79.45,55.81,7.36,151.43
+GB,Company Owned,51.52,-0.08,London,144.85,30.74,6.25,60.27
+GB,Company Owned,51.54,-0.01,London,126.36,96.63,7.94,136.82
+GB,Company Owned,51.41,-0.23,London,64.01,62.37,6.44,116.31
+GB,Company Owned,51.44,-0.21,London,136.85,39.35,6.99,221.52
+GB,Company Owned,51.51,-0.2,London,98.74,60.05,7.27,287.2
+GB,Franchise,51.51,-0.29,London,139.46,74.37,9.24,117.01
+GB,Company Owned,51.55,-0.16,London,129.99,26.1,9.5,252.87
+GB,Company Owned,51.54,-0.01,London,92.52,41.98,7.21,63.84
+GB,Company Owned,51.52,-0.08,London,52.25,84.56,9.43,184.53
+GB,Company Owned,51.52,-0.13,London,76.87,56.77,9.43,67.64
+GB,Licensed,51.52,-0.09,London,104.16,63.73,9.06,283.51
+GB,Company Owned,51.52,-0.1,London,113.35,54.63,6.59,241.59
+GB,Licensed,51.5,-0.11,London,75.79,23.51,8.76,214.49
+GB,Company Owned,51.5,-0.14,London,63.94,33.26,9.78,255.97
+GB,Company Owned,51.51,-0.14,London,133.49,55.64,8.73,211.88
+GB,Company Owned,51.41,-0.18,London,148.44,36.73,7.33,292.24
+GB,Company Owned,51.48,-0.29,London,102.57,24.0,8.0,228.49
+GB,Company Owned,51.51,-0.14,LONDON,67.17,87.49,8.58,281.16
+GB,Company Owned,51.49,-0.22,London,77.23,98.5,8.04,179.28
+GB,Company Owned,51.5,-0.13,London,51.84,83.45,6.48,79.27
+GB,Licensed,51.63,-0.07,London,141.43,88.3,7.25,182.04
+GB,Company Owned,51.49,-0.17,London,61.78,39.36,9.21,81.72
+GB,Company Owned,51.49,-0.22,London,107.65,96.85,9.45,198.12
+GB,Company Owned,51.51,-0.14,London,77.41,35.75,6.55,170.62
+GB,Company Owned,51.53,-0.09,London,105.42,96.11,9.81,205.64
+GB,Company Owned,51.49,-0.26,London,115.14,99.59,7.32,52.51
+GB,Company Owned,51.51,-0.22,London,132.97,76.94,8.65,98.71
+GB,Company Owned,51.51,-0.14,London,70.64,98.49,9.01,172.83
+GB,Company Owned,51.48,-0.21,London,51.1,65.56,9.25,287.63
+GB,Company Owned,51.47,-0.2,London,63.69,40.76,9.78,145.9
+GB,Company Owned,51.5,-0.09,London,140.0,54.96,7.25,156.09
+GB,Company Owned,51.52,-0.14,London,137.39,67.48,9.43,228.67
+GB,Company Owned,51.51,-0.16,London,109.74,25.85,6.53,200.95
+GB,Licensed,51.53,-0.13,London,110.05,69.79,8.82,124.73
+GB,Company Owned,51.49,-0.15,London,116.5,98.49,8.97,152.7
+GB,Company Owned,51.51,-0.14,London,67.54,35.21,8.71,104.42
+GB,Company Owned,51.52,-0.19,London,141.44,83.41,7.01,291.51
+GB,Licensed,51.42,-0.21,London,91.88,92.63,9.49,82.66
+GB,Company Owned,51.52,-0.18,London,88.31,95.5,6.68,142.96
+GB,Company Owned,51.52,-0.16,London,101.89,96.81,6.21,56.46
+GB,Company Owned,51.49,-0.17,London,54.7,61.72,8.87,105.44
+GB,Company Owned,51.51,-0.13,London,66.63,98.18,7.9,245.12
+GB,Company Owned,51.47,-0.19,London,123.8,80.58,9.4,100.29
+GB,Company Owned,51.53,-0.11,London,58.28,32.93,7.53,70.02
+GB,Company Owned,51.55,-0.18,London,110.32,58.15,6.67,168.61
+GB,Company Owned,51.51,-0.12,London,74.53,77.47,9.35,52.49
+GB,Licensed,51.51,-0.01,London,88.93,39.79,8.2,71.19
+GB,Company Owned,51.51,-0.14,London,78.87,71.25,6.76,251.91
+GB,Company Owned,51.5,-0.12,London,85.57,73.33,8.88,242.87
+GB,Company Owned,51.45,-0.14,London,121.9,33.02,8.04,278.78
+GB,Company Owned,51.5,-0.11,London,79.71,65.21,8.42,263.63
+GB,Licensed,51.52,-0.08,London,106.64,81.73,7.84,220.79
+GB,Licensed,51.51,-0.07,London,97.61,59.91,9.31,63.08
+GB,Company Owned,51.48,-0.13,London,116.37,20.97,9.32,245.71
+GB,Company Owned,51.5,-0.02,London,143.68,20.72,8.84,261.38
+GB,Company Owned,51.58,-0.22,London,123.26,48.56,6.42,249.77
+GB,Franchise,51.49,0.02,London,71.49,94.1,9.36,177.12
+GB,Company Owned,51.54,-0.21,London,53.12,38.29,8.68,108.23
+GB,Company Owned,51.51,-0.15,London,76.23,70.75,8.79,261.33
+GB,Company Owned,51.51,-0.12,London,109.51,37.77,7.45,231.79
+GB,Company Owned,51.38,-0.02,LONDON,55.14,45.73,9.52,295.19
+GB,Company Owned,51.55,-0.1,London,99.64,87.84,8.9,88.92
+GB,Company Owned,51.48,-0.01,London,109.68,78.31,6.45,106.42
+GB,Company Owned,51.54,-0.14,London,83.42,27.63,7.63,102.95
+GB,Company Owned,51.52,-0.17,London,127.09,54.3,9.55,248.13
+GB,Company Owned,51.52,-0.11,London,60.66,22.33,6.19,96.73
+GB,Company Owned,51.5,-0.16,London,57.51,58.47,9.85,66.66
+GB,Company Owned,51.51,-0.09,London,122.82,72.99,8.72,299.64
+GB,Company Owned,51.51,-0.08,London,99.55,29.48,8.53,56.2
+GB,Company Owned,51.51,-0.1,London,118.84,43.11,7.08,258.81
+GB,Company Owned,51.49,-0.17,London,93.48,51.83,7.0,141.34
+GB,Company Owned,51.53,-0.17,London,74.64,93.56,9.77,260.4
+GB,Company Owned,51.49,-0.13,London,131.91,99.46,7.19,188.66
+GB,Company Owned,51.51,-0.19,London,129.94,23.59,9.1,275.41
+GB,Company Owned,51.51,-0.11,London,119.47,80.88,7.57,281.55
+GB,Licensed,55.74,-2.87,London,77.21,49.74,6.56,52.27
+GB,Company Owned,51.65,-0.08,London,109.02,51.4,6.04,68.85
+GB,Company Owned,51.55,-0.16,London,86.1,80.34,8.18,112.59
+GB,Company Owned,51.52,-0.12,London,59.16,93.47,9.9,217.33
+GB,Licensed,51.53,-0.12,London,141.73,96.07,7.48,272.07
+GB,Licensed,51.5,-0.14,London,63.68,66.17,7.43,164.99
+GB,Company Owned,51.58,-0.12,London,145.02,48.57,7.38,201.74
+GB,Company Owned,51.51,-0.09,London,94.6,83.0,8.08,97.12
+GB,Company Owned,51.42,-0.21,London,68.51,40.08,7.76,251.24
+GB,Company Owned,51.54,-0.15,London,104.19,65.13,9.52,291.83
+GB,Company Owned,51.51,-0.1,London,137.29,48.69,8.02,117.15
+GB,Franchise,51.41,-0.03,London,123.22,72.53,8.03,173.71
+GB,Company Owned,51.5,-0.09,London,130.66,39.23,6.55,71.53
+GB,Company Owned,51.49,-0.23,London,115.88,35.33,9.93,189.78
+GB,Company Owned,51.49,-0.18,London,119.23,93.46,7.0,175.7
+GB,Franchise,51.52,-0.16,London,134.92,28.14,6.29,86.11
+GB,Company Owned,51.52,-0.13,London,74.97,60.48,8.65,160.52
+GB,Company Owned,51.51,-0.09,London,98.94,37.67,8.38,133.53
+GB,Company Owned,51.51,-0.08,London,72.12,23.11,7.66,180.46
+GB,Company Owned,51.5,-0.2,London,148.77,22.88,7.69,196.41
+GB,Franchise,51.52,-0.04,London,144.41,34.02,9.14,52.12
+GB,Company Owned,51.52,-0.1,London,53.94,89.34,6.78,240.25
+GB,Franchise,51.66,-0.28,London,120.56,42.6,9.28,228.25
+GB,Company Owned,51.51,-0.1,London,142.52,96.04,8.59,141.57
+GB,Company Owned,51.41,-0.3,London,68.06,66.53,7.68,63.23
+GB,Company Owned,51.5,-0.01,London,106.79,54.93,7.83,238.73
+GB,Company Owned,51.52,-0.13,London,141.55,66.41,7.03,288.79
+GB,Company Owned,51.5,-0.13,London,53.39,61.34,9.01,110.04
+GB,Company Owned,51.5,-0.02,London,119.74,80.7,8.05,130.88
+GB,Franchise,51.56,-0.11,London,79.73,42.6,7.28,95.95
+GB,Company Owned,51.46,-0.14,London,142.44,48.24,8.38,194.23
+GB,Company Owned,51.51,-0.1,London,147.11,91.53,9.98,88.71
+GB,Company Owned,51.53,-0.13,London,144.43,95.72,7.74,139.05
+GB,Company Owned,51.51,-0.15,London,97.42,91.4,9.68,224.25
+GB,Company Owned,51.51,-0.14,London,136.2,53.56,7.38,190.03
+GB,Company Owned,51.49,-0.26,London,134.45,82.43,6.22,146.62
+GB,Company Owned,51.51,-0.12,London,81.91,58.11,6.82,155.06
+GB,Company Owned,51.51,-0.09,London,132.89,59.8,7.67,190.53
+GB,Company Owned,51.72,-0.28,London Colney,53.7,36.37,6.88,51.47
+GB,Licensed,52.77,-1.2,Loughborough,109.63,67.29,6.0,69.63
+GB,Franchise,51.65,0.06,Loughton,73.0,34.89,9.66,270.31
+GB,Franchise,52.48,1.75,Lowestoft,62.06,46.53,9.38,69.47
+GB,Licensed,51.88,-0.38,Luton,57.7,88.4,8.97,226.7
+GB,Franchise,51.88,-0.41,Luton,119.63,36.57,6.67,280.01
+GB,Licensed,51.88,-0.38,Luton,83.99,25.69,6.48,117.67
+GB,Franchise,51.52,-0.72,Maidenhead,122.48,25.52,6.27,142.62
+GB,Franchise,51.27,0.52,Maidstone,56.54,95.26,8.9,192.23
+GB,Licensed,51.3,0.51,Maidstone,81.53,60.55,9.72,270.43
+GB,Franchise,53.46,-2.23,Manchester,103.95,52.75,7.72,285.48
+GB,Licensed,53.37,-2.28,Manchester,129.07,84.87,6.48,234.89
+GB,Franchise,53.47,-2.25,Manchester,81.88,86.87,8.05,71.65
+GB,Company Owned,53.48,-2.23,Manchester,112.59,46.58,7.4,217.29
+GB,Company Owned,53.48,-2.24,Manchester,138.6,75.49,7.5,152.58
+GB,Licensed,53.48,-2.24,Manchester,111.59,81.69,8.49,167.68
+GB,Licensed,53.47,-2.23,Manchester,73.3,72.37,8.87,62.29
+GB,Company Owned,53.48,-2.25,Manchester,52.44,32.13,6.44,97.77
+GB,Company Owned,53.48,-2.24,Manchester,137.01,90.07,6.14,247.63
+GB,Company Owned,53.48,-2.25,Manchester,52.13,63.13,9.98,163.49
+GB,Licensed,53.48,-2.24,Manchester,137.47,42.6,6.93,125.42
+GB,Company Owned,53.48,-2.24,Manchester,102.89,54.02,6.22,146.0
+GB,Company Owned,53.47,-2.35,Manchester,143.91,23.01,6.76,263.6
+GB,Company Owned,53.48,-2.24,Manchester,129.88,30.23,6.16,237.25
+GB,Licensed,53.49,-2.24,Manchester,149.79,81.24,7.57,118.08
+GB,Company Owned,53.48,-2.25,Manchester,85.07,20.0,9.21,79.38
+GB,Company Owned,53.47,-2.34,Manchester,126.72,53.33,7.36,113.0
+GB,Company Owned,53.47,-2.35,Manchester,90.19,61.8,7.78,280.19
+GB,Company Owned,53.48,-2.25,Manchester,97.99,24.37,8.7,195.4
+GB,Company Owned,53.44,-2.22,Manchester,112.75,97.85,8.04,183.37
+GB,Company Owned,53.47,-2.24,Manchester,137.37,38.09,9.45,199.1
+GB,Company Owned,53.48,-2.24,Manchester,148.41,44.34,9.46,141.51
+GB,Company Owned,53.49,-2.24,Manchester,126.83,44.32,6.04,251.78
+GB,Licensed,53.41,-2.22,Manchester,91.78,38.43,9.11,180.82
+GB,Licensed,53.36,-2.27,Manchester,92.14,20.12,7.84,79.19
+GB,Franchise,53.11,-1.31,Mansfield,123.76,78.35,9.96,82.27
+GB,Franchise,52.48,-0.92,MARKET HARBOROUGH,73.88,97.35,7.93,184.21
+GB,Franchise,51.57,-0.78,Marlow,61.05,37.94,9.95,284.14
+GB,Company Owned,54.58,-1.24,Middlesbrough,85.46,73.04,9.02,127.09
+GB,Franchise,53.2,-2.43,Middlewich,78.72,79.35,6.99,267.39
+GB,Company Owned,52.04,-0.76,Milton Keynes,79.63,87.87,8.15,241.02
+GB,Company Owned,52.04,-0.76,Milton Keynes,73.36,53.81,9.97,111.95
+GB,Franchise,52.04,-0.69,Milton Keynes,54.21,44.23,9.43,59.09
+GB,Licensed,52.04,-0.75,Milton Keynes,51.79,46.02,6.39,75.46
+GB,Company Owned,52.04,-0.78,Milton Keynes,148.77,77.01,8.83,232.12
+GB,Licensed,52.08,-0.75,Milton Keynes,92.78,85.34,7.38,99.92
+GB,Franchise,53.69,-1.72,Mirfield,88.43,34.53,6.03,142.82
+GB,Licensed,53.21,-1.01,Newark,117.96,49.68,7.61,175.42
+GB,Franchise,53.08,-0.81,Newark,71.83,92.16,6.94,231.37
+GB,Franchise,51.4,-1.32,Newbury,145.0,84.54,9.28,78.31
+GB,Company Owned,54.96,-1.67,Newcastle,128.63,98.79,7.35,151.59
+GB,Company Owned,54.99,-1.61,Newcastle,58.94,80.34,9.31,171.27
+GB,Licensed,52.99,-2.29,Newcastle,91.76,51.46,6.0,185.21
+GB,Licensed,52.99,-2.29,Newcastle,137.91,67.25,7.23,254.59
+GB,Company Owned,54.97,-1.61,Newcastle,144.47,72.88,6.96,92.92
+GB,Licensed,52.99,-2.29,Newcastle,96.74,26.28,6.93,251.96
+GB,Company Owned,54.97,-1.62,Newcastle,111.34,63.56,6.27,223.22
+GB,Company Owned,54.98,-1.61,Newcastle,66.7,76.75,6.75,188.97
+GB,Company Owned,54.97,-1.62,Newcastle on Tyne,149.12,33.39,8.22,224.88
+GB,Company Owned,55.01,-1.66,Newcastle on Tyne,73.17,82.45,7.17,153.0
+GB,Company Owned,53.03,-2.21,Newcastle Under Lyme,144.27,66.7,7.67,84.6
+GB,Company Owned,54.97,-1.61,Newcastle Upon Tyne,114.96,96.18,7.51,216.44
+GB,Licensed,55.03,-1.51,Newcastle upon Tyne,110.77,23.39,9.5,181.17
+GB,Licensed,54.97,-1.6,Newcastle Upon Tyne,101.27,41.23,9.62,209.84
+GB,Franchise,52.27,0.41,Newmarket,73.07,68.12,7.97,134.5
+GB,Franchise,52.24,0.41,Newmarket,67.65,43.72,7.32,276.72
+GB,Franchise,50.7,-1.29,Newport,72.05,77.15,6.43,196.84
+GB,Franchise,51.59,-2.99,Newport,68.64,80.72,9.81,71.35
+GB,Licensed,51.57,-2.95,Newport,127.96,28.2,6.24,162.45
+GB,Franchise,52.75,0.4,Norfolk,85.01,61.11,7.19,239.09
+GB,Company Owned,51.37,-0.23,North Cheam,55.78,60.71,7.19,248.53
+GB,Franchise,52.24,-0.9,Northampton,146.91,49.54,7.28,173.65
+GB,Licensed,52.24,-0.91,Northampton,138.38,94.63,6.66,273.69
+GB,Company Owned,52.23,-0.9,Northampton,142.78,86.2,9.13,116.92
+GB,Licensed,52.24,-0.94,Northampton,149.49,75.78,6.49,152.65
+GB,Franchise,52.63,1.3,Norwich,67.39,77.15,8.54,274.65
+GB,Franchise,52.62,1.29,Norwich,89.62,56.94,6.5,274.06
+GB,Franchise,52.63,1.29,Norwich,125.82,93.68,6.28,221.43
+GB,Licensed,52.63,1.31,Norwich,119.6,75.57,9.64,264.75
+GB,Franchise,52.62,1.31,Norwich,65.39,78.32,6.76,72.19
+GB,Licensed,52.9,-1.24,Nottingham,131.58,88.94,9.29,266.25
+GB,Licensed,52.94,-1.15,Nottingham,72.44,41.93,8.18,130.15
+GB,Licensed,52.95,-1.18,Nottingham,72.38,84.57,6.31,94.58
+GB,Franchise,53.0,-1.28,Nottingham,103.7,35.62,9.82,109.84
+GB,Franchise,52.95,-1.15,Nottingham,109.29,47.63,6.99,154.49
+GB,Franchise,52.95,-1.15,Nottingham,108.01,46.85,9.44,112.8
+GB,Licensed,52.94,-1.19,Nottingham,59.15,98.28,6.68,130.14
+GB,Franchise,52.95,-1.15,Nottingham,137.75,88.52,9.42,83.74
+GB,Franchise,53.3,-1.14,Nottinghamshire,76.56,76.09,6.05,124.04
+GB,Licensed,53.17,-1.05,Nottinghamshire,62.95,78.16,8.05,193.07
+GB,Licensed,54.19,-0.29,Nr Filey,138.87,64.97,9.08,160.46
+GB,Franchise,51.76,-2.31,nr Stroud,145.57,95.77,9.74,136.68
+GB,Franchise,53.57,-2.88,Ormskirk,136.21,59.7,9.64,236.61
+GB,Franchise,51.38,0.1,Orpington,130.95,50.44,9.28,273.38
+GB,Franchise,52.85,-3.03,Oswestry Gateway,115.52,33.04,9.55,239.2
+GB,Licensed,51.76,-1.23,Oxford,105.09,82.9,6.8,133.0
+GB,Franchise,51.85,-1.23,Oxford,58.7,78.76,7.14,236.11
+GB,Franchise,51.75,-1.26,Oxford,90.85,50.75,7.16,88.0
+GB,Licensed,51.74,-1.1,Oxford,87.27,22.02,7.51,82.58
+GB,Licensed,51.71,-1.1,Oxford,75.98,87.12,7.57,136.41
+GB,Franchise,51.78,-1.26,Oxford,122.34,20.91,8.18,251.93
+GB,Licensed,51.74,-1.1,Oxford,99.59,76.3,6.64,111.59
+GB,Licensed,51.79,-1.28,Oxford,58.1,97.62,8.76,65.81
+GB,Licensed,54.6,-2.74,Penrith,72.02,55.01,6.67,82.93
+GB,Licensed,54.6,-2.74,Penrith,118.33,38.8,7.24,264.69
+GB,Franchise,52.57,-0.24,Peterborough,57.61,76.39,8.01,208.45
+GB,Licensed,52.57,-0.25,Peterborough,135.12,85.37,9.19,113.3
+GB,Franchise,50.82,0.34,Pevensey,99.51,63.71,8.96,188.82
+GB,Franchise,51.58,-0.39,Pinner,98.06,97.36,8.58,181.89
+GB,Franchise,50.37,-4.14,Plymouth,109.24,24.13,6.62,213.86
+GB,Franchise,50.37,-4.14,Plymouth,132.47,60.38,8.19,108.3
+GB,Franchise,53.92,-0.8,Pocklington,84.78,77.48,6.35,266.1
+GB,Franchise,50.72,-1.98,Poole,117.8,89.01,7.51,127.34
+GB,Franchise,50.84,-1.08,Portsmouth,106.57,34.34,7.65,223.53
+GB,Franchise,50.8,-1.09,Portsmouth,76.7,84.0,6.16,54.03
+GB,Franchise,50.8,-1.09,Portsmouth,137.86,64.22,7.1,143.16
+GB,Licensed,51.69,-0.22,Potters Bar,129.74,51.72,9.82,137.93
+GB,Licensed,51.69,-0.22,Potters Bar,115.85,30.54,9.81,185.87
+GB,Franchise,53.75,-2.68,Preston,135.06,89.22,7.41,68.18
+GB,Franchise,53.79,-2.65,Preston,136.73,32.58,6.17,247.53
+GB,Franchise,53.82,-2.9,Preston,120.84,44.78,6.72,104.45
+GB,Franchise,53.77,-2.68,Preston,133.7,43.2,7.57,219.26
+GB,Franchise,52.46,-2.01,Quinton,119.75,89.71,9.79,250.8
+GB,Company Owned,51.44,-1.06,Reading,118.01,73.82,6.56,190.47
+GB,Company Owned,51.45,-0.97,Reading,111.86,83.73,9.05,235.22
+GB,Franchise,51.46,-0.97,Reading,125.27,40.04,6.43,215.47
+GB,Company Owned,51.45,-0.97,Reading,65.86,69.99,9.93,138.88
+GB,Licensed,51.46,-0.97,Reading,138.09,65.74,7.53,252.21
+GB,Licensed,51.46,-0.97,Reading,137.18,86.63,9.1,123.68
+GB,Franchise,51.46,-0.97,Reading,52.92,92.49,7.37,192.8
+GB,Company Owned,51.29,-0.15,Reigate and Banstead,132.58,20.97,8.51,236.35
+GB,Company Owned,51.47,-0.29,Richmond,62.89,73.92,6.77,144.74
+GB,Company Owned,51.46,-0.3,Richmond,83.51,24.15,6.58,125.69
+GB,Franchise,51.82,0.67,Rivenhall South,124.35,63.91,9.75,164.84
+GB,Franchise,53.6,-2.17,Rochdale,66.08,43.01,9.67,254.49
+GB,Franchise,51.58,0.18,Romford,131.8,44.54,9.55,282.48
+GB,Franchise,51.58,0.18,Romford,133.21,48.24,8.5,186.27
+GB,Franchise,51.93,-2.57,Ross on Wye,100.75,69.7,9.23,215.37
+GB,Franchise,53.34,-2.73,Runcorn,50.64,46.72,6.28,275.82
+GB,Franchise,52.02,0.24,Safron Walden,78.7,78.62,7.34,74.64
+GB,Franchise,51.06,-1.78,Salisbury,111.69,52.36,7.25,108.02
+GB,Franchise,51.07,-1.8,Salisbury,148.12,25.47,8.54,227.23
+GB,Franchise,53.24,-2.95,Saughall,113.18,82.7,7.42,255.94
+GB,Franchise,53.38,-1.49,Sheffield,75.98,42.86,6.59,264.26
+GB,Company Owned,53.41,-1.41,Sheffield,113.4,54.62,8.39,153.78
+GB,Licensed,53.32,-1.28,Sheffield,104.0,74.84,9.26,72.33
+GB,Franchise,53.38,-1.47,Sheffield,127.98,46.6,7.53,159.45
+GB,Company Owned,53.41,-1.41,Sheffield,60.7,24.53,6.53,107.68
+GB,Licensed,53.38,-1.46,Sheffield,126.1,49.91,6.79,122.8
+GB,Franchise,53.37,-1.49,Sheffield,104.13,95.56,6.95,243.07
+GB,Franchise,53.38,-1.47,Sheffield,146.3,71.34,7.2,68.88
+GB,Franchise,53.32,-1.28,Sheffield,84.19,73.72,8.57,256.9
+GB,Company Owned,53.41,-1.41,Sheffield,113.26,70.58,8.4,156.92
+GB,Franchise,53.38,-1.47,Sheffield,143.2,35.92,8.78,199.02
+GB,Licensed,53.4,-1.41,Sheffield,60.25,53.47,7.45,72.41
+GB,Company Owned,50.85,-0.25,Shoreham By Sea,143.72,80.08,9.3,134.34
+GB,Franchise,52.68,-2.76,Shrewsbury,118.79,28.11,6.82,72.43
+GB,Company Owned,52.71,-2.75,Shrewsbury,56.78,42.23,7.88,290.39
+GB,Licensed,52.71,-2.75,Shrewsbury,80.1,42.11,9.2,251.82
+GB,Company Owned,52.69,-2.75,Shrewsbury,120.82,54.56,6.72,164.91
+GB,Franchise,52.75,-2.72,Shrewsbury,56.74,98.43,6.44,105.9
+GB,Licensed,52.68,-2.4,Shropshire,108.22,25.4,9.53,283.36
+GB,Franchise,51.34,0.74,Sittingbourne,84.59,61.5,7.37,136.15
+GB,Franchise,53.96,-2.02,Skipton,112.09,34.35,8.74,90.25
+GB,Franchise,51.51,-0.59,Slough,54.57,97.65,6.1,190.79
+GB,Licensed,52.39,-1.82,Solihull,137.15,29.06,8.76,285.94
+GB,Company Owned,52.41,-1.78,Solihull,147.35,52.29,7.26,50.96
+GB,Franchise,54.98,-1.45,South Shields,146.89,79.03,6.22,109.53
+GB,Franchise,53.27,-2.88,South Wirral,124.97,76.36,8.44,284.61
+GB,Franchise,50.9,-1.41,Southampton,63.01,53.82,6.96,92.77
+GB,Company Owned,50.9,-1.41,Southampton,125.83,47.72,7.55,78.31
+GB,Franchise,50.92,-1.31,Southampton,52.46,51.81,6.32,192.55
+GB,Franchise,50.91,-1.4,Southampton,52.21,41.14,6.59,265.46
+GB,Franchise,50.91,-1.4,Southampton,82.36,36.43,7.19,169.28
+GB,Franchise,50.91,-1.41,Southampton,98.86,58.64,6.36,298.64
+GB,Franchise,51.54,0.71,Southend on Sea,127.04,41.48,9.64,219.79
+GB,Franchise,53.65,-3.01,Southport,118.33,43.0,6.02,68.52
+GB,Company Owned,51.51,-0.1,Southwark,94.59,72.54,7.94,298.21
+GB,Franchise,52.8,0.13,Spalding,77.36,97.48,6.49,151.97
+GB,Franchise,51.75,-0.34,St Albans,149.71,68.29,7.23,121.85
+GB,Franchise,53.47,-2.77,St Helens,92.62,26.16,9.7,189.47
+GB,Franchise,50.83,-1.84,St Leonard's,95.14,26.05,6.65,126.08
+GB,Company Owned,51.72,-0.29,St. Albans,66.36,96.11,9.86,71.61
+GB,Licensed,52.8,-2.12,Stafford,129.48,43.78,6.82,50.36
+GB,Company Owned,52.81,-2.12,STAFFORD,119.37,27.37,8.97,162.4
+GB,Licensed,52.99,-2.29,Staffordshire,72.08,67.92,8.19,259.22
+GB,Franchise,52.91,-1.86,Staffordshire,58.24,69.89,9.54,193.08
+GB,Licensed,52.99,-2.29,Staffordshire,118.05,71.88,8.22,299.8
+GB,Franchise,52.92,-1.48,Staines,115.45,41.39,8.14,121.71
+GB,Company Owned,51.43,-0.52,Staines,77.33,21.21,6.78,120.11
+GB,Licensed,51.89,0.26,Stansted,145.09,97.2,6.66,89.94
+GB,Licensed,51.89,-0.2,Stevenage,65.11,40.07,9.67,91.02
+GB,Licensed,53.4,-2.16,Stockport,93.23,74.08,7.31,121.3
+GB,Franchise,53.05,-2.18,Stoke on Trent,144.36,76.53,7.49,248.21
+GB,Franchise,53.03,-2.24,Stoke on Trent,91.97,68.8,9.04,276.44
+GB,Company Owned,51.54,0.0,Stratford,113.85,45.03,7.36,293.77
+GB,Franchise,52.19,-1.71,Stratford upon Avon,89.76,41.69,9.81,108.07
+GB,Licensed,52.39,0.55,Suffolk,77.42,67.81,8.95,270.32
+GB,Company Owned,54.91,-1.38,Sunderland,148.4,89.29,8.39,132.06
+GB,Company Owned,51.39,-0.31,Surbiton,90.93,95.74,9.52,78.21
+GB,Licensed,51.36,-0.19,Sutton,139.41,28.47,6.2,267.51
+GB,Franchise,51.36,-0.19,Sutton,73.0,32.39,7.03,209.03
+GB,Company Owned,52.56,-1.82,Sutton Coldfield,71.31,95.58,7.86,91.18
+GB,Licensed,51.56,-1.83,Swindon,53.11,78.92,6.91,157.46
+GB,Company Owned,51.6,-1.81,Swindon,115.17,90.64,8.98,121.81
+GB,Franchise,51.56,-1.79,Swindon,86.85,36.21,9.68,234.2
+GB,Franchise,51.56,-1.8,Swindon,136.44,67.01,7.7,163.35
+GB,Licensed,53.49,-2.11,Tameside,97.32,76.09,7.37,297.32
+GB,Licensed,52.63,-1.7,Tamworth,146.82,74.41,9.85,63.69
+GB,Franchise,52.6,-1.61,Tamworth,68.55,52.65,7.78,138.75
+GB,Company Owned,51.52,-0.67,Taplow,136.86,21.23,7.96,170.48
+GB,Licensed,51.02,-3.1,Taunton,127.66,66.63,7.41,175.78
+GB,Franchise,51.43,-0.33,Teddington,127.09,40.25,9.64,128.98
+GB,Licensed,52.67,-2.45,Telford,134.48,56.02,8.28,232.31
+GB,Franchise,52.0,-2.12,Tewkesbury,126.1,96.61,9.05,268.69
+GB,Licensed,52.39,0.66,Thetford,112.62,51.92,9.25,284.68
+GB,Franchise,54.7,-1.57,Thinford,63.12,87.18,7.37,251.27
+GB,Company Owned,51.49,0.28,Thurrock,53.25,35.08,7.73,262.65
+GB,Franchise,51.19,0.27,Tonbridge,142.08,73.8,9.39,187.64
+GB,Franchise,50.46,-3.53,Torquay,111.67,98.16,7.45,256.47
+GB,Franchise,51.33,-2.21,Trowbridge,129.65,28.15,9.18,125.88
+GB,Franchise,50.26,-5.05,Truro,98.15,20.67,9.76,149.62
+GB,Franchise,51.13,0.26,Tunbridge Wells,61.73,54.69,8.49,129.23
+GB,Franchise,51.45,-0.33,Twickenham,62.52,27.41,8.97,166.85
+GB,Company Owned,51.55,-0.48,Uxbridge,118.56,79.87,9.22,121.39
+GB,Company Owned,51.55,-0.48,Uxbridge,93.03,93.16,9.38,290.4
+GB,Franchise,53.65,-1.52,Wakefield,70.05,54.72,7.58,128.21
+GB,Franchise,53.44,-3.05,Wallasey,99.16,40.7,6.21,74.51
+GB,Company Owned,52.59,-1.99,Walsall,56.42,54.75,7.61,181.7
+GB,Licensed,52.58,-2.01,Walsall,108.2,77.88,8.7,64.27
+GB,Franchise,51.72,-0.04,Waltham Cross,76.9,20.72,7.8,77.64
+GB,Company Owned,51.39,-0.42,Walton on Thames,129.76,67.16,9.0,104.85
+GB,Licensed,51.46,-0.19,Wandsworth,81.04,69.06,7.43,166.09
+GB,Franchise,51.58,0.03,Wanstead,95.52,71.02,8.54,158.31
+GB,Licensed,51.17,-2.22,Warminster,51.16,39.36,6.75,249.92
+GB,Licensed,53.38,-2.6,Warrington,57.24,77.12,9.0,234.87
+GB,Franchise,53.39,-2.6,Warrington,89.25,27.31,8.18,156.58
+GB,Franchise,53.42,-2.53,Warrington,97.99,35.94,6.82,133.43
+GB,Franchise,53.42,-2.64,Warrington,110.0,90.2,7.17,129.12
+GB,Licensed,52.22,-1.5,Warwick,79.17,79.1,8.99,243.5
+GB,Licensed,52.22,-1.5,Warwick,119.5,21.1,7.93,63.02
+GB,Franchise,52.28,-1.61,Warwick,136.01,39.87,6.86,53.21
+GB,Licensed,52.22,-1.51,Warwick,127.99,37.15,9.87,248.89
+GB,Franchise,51.66,-0.4,Watford,53.96,41.66,8.86,169.29
+GB,Franchise,51.66,-0.39,Watford,98.05,39.8,9.83,82.72
+GB,Company Owned,52.57,-2.01,Wednesbury,60.49,25.0,7.71,108.89
+GB,Franchise,52.29,-0.69,Wellingborough,74.2,56.72,7.9,283.13
+GB,Franchise,51.8,-0.2,Welwyn Garden City,148.67,78.62,9.59,264.88
+GB,Franchise,51.56,-0.28,Wembley,64.25,68.54,8.1,227.45
+GB,Licensed,51.56,-0.28,Wembley,99.89,73.83,8.83,170.56
+GB,Licensed,51.16,-0.19,West Sussex,111.82,26.49,7.01,180.08
+GB,Licensed,51.16,-0.18,West Sussex,120.25,96.12,7.79,293.81
+GB,Company Owned,51.49,0.27,West Thurrock,105.96,87.08,6.49,291.44
+GB,Company Owned,53.76,-1.57,West Yorkshire,50.98,84.41,6.82,103.82
+GB,Licensed,51.27,-2.92,Weston Super Mare,82.65,85.84,6.0,252.78
+GB,Franchise,51.37,-0.46,Weybridge,101.77,94.62,6.16,99.31
+GB,Licensed,50.6,-2.49,Weymouth,58.79,63.54,9.91,103.38
+GB,Franchise,52.97,-2.71,Whitchurch,85.06,36.02,6.97,219.02
+GB,Franchise,50.89,-1.25,Whiteley,53.32,69.34,8.65,151.25
+GB,Franchise,51.45,-0.36,Whitton,57.86,79.43,9.36,282.89
+GB,Franchise,51.78,-1.49,Wigan,89.69,79.03,8.2,72.25
+GB,Franchise,53.55,-2.63,Wigan,63.27,61.72,6.61,177.88
+GB,Franchise,53.55,-2.67,Wigan,106.75,25.48,8.91,279.63
+GB,Franchise,53.33,-2.23,Wilmslow,118.95,49.69,8.4,276.03
+GB,Licensed,51.19,-2.23,Wiltshire,130.06,93.66,8.93,89.13
+GB,Company Owned,51.05,-1.34,Winchester,70.02,66.76,9.08,141.66
+GB,Franchise,51.06,-1.31,Winchster,66.75,63.07,9.9,204.78
+GB,Franchise,51.48,-0.61,Windsor,60.46,41.51,8.29,89.85
+GB,Franchise,53.31,-2.96,Wirral,113.64,49.48,7.37,292.01
+GB,Licensed,53.35,-2.99,Wirral,120.65,91.63,8.59,278.69
+GB,Franchise,52.68,0.21,Wisbech,53.16,73.32,6.27,91.74
+GB,Franchise,51.32,-0.56,Woking,143.62,82.99,9.59,80.29
+GB,Licensed,51.31,-0.55,Woking,55.2,56.35,6.48,71.35
+GB,Company Owned,52.58,-2.13,Wolverhampton,104.13,70.42,7.31,277.36
+GB,Franchise,52.59,-2.13,Wolverhampton,120.91,39.87,9.26,98.41
+GB,Company Owned,51.49,0.07,Woolwich,137.1,76.44,8.39,154.07
+GB,Franchise,52.19,-2.22,Worcester,121.41,54.21,7.57,162.21
+GB,Franchise,50.81,-0.37,Worthing,130.17,55.4,7.89,199.75
+GB,Franchise,50.83,-0.38,Worthing,83.95,71.95,9.42,67.93
+GB,Franchise,51.54,-2.41,Yate,131.48,94.9,7.36,106.69
+GB,Franchise,50.94,-2.61,Yeovil,58.01,25.12,9.48,282.87
+GB,Franchise,53.99,-1.05,York,139.48,85.98,6.35,277.1
+GB,Franchise,53.92,-1.08,York,104.76,43.39,9.11,245.32
+GB,Licensed,53.96,-1.09,York,131.73,55.51,9.39,54.85
+GB,Franchise,53.96,-1.08,York,95.23,21.75,6.73,131.75
+GB,Licensed,53.32,-1.28,Yorkshire,114.36,44.08,7.72,206.99
+GB,Licensed,53.32,-1.28,Yorkshire,102.64,60.21,6.66,118.8
+GB,Licensed,53.71,-1.75,Yorkshire,123.16,24.49,8.83,277.4
+GB,Licensed,53.71,-1.74,Yorkshire,58.16,59.29,8.14,208.47
+GB,Licensed,54.73,-6.23,Antrim,56.04,94.17,8.54,67.98
+GB,Licensed,54.33,-6.28,Banbridge,74.71,28.43,6.79,277.25
+GB,Licensed,54.66,-5.7,Bangor,65.95,81.16,6.85,289.44
+GB,Licensed,54.6,-5.93,Belfast,137.18,52.77,6.17,69.43
+GB,Licensed,54.6,-5.93,Belfast,71.92,72.41,7.29,183.09
+GB,Licensed,54.57,-5.96,Belfast,147.59,40.82,8.24,125.84
+GB,Licensed,54.62,-5.87,Belfast,83.69,32.76,9.43,148.21
+GB,Licensed,54.59,-5.94,Belfast,68.21,32.84,8.67,94.91
+GB,Licensed,54.6,-5.93,Belfast,128.97,25.64,7.74,194.52
+GB,Licensed,54.66,-6.22,Belfast,115.87,34.85,9.81,289.49
+GB,Licensed,54.6,-5.93,Belfast,99.82,73.14,8.88,175.77
+GB,Licensed,54.58,-5.96,Belfast,105.54,90.54,9.72,70.73
+GB,Licensed,54.59,-5.93,Belfast,121.92,85.13,8.11,205.0
+GB,Licensed,54.6,-5.93,Belfast,72.85,74.81,7.04,135.06
+GB,Licensed,55.13,-6.67,Coleraine,149.63,28.83,6.21,263.98
+GB,Licensed,54.45,-6.39,Craigavon,147.48,43.13,8.9,158.67
+GB,Licensed,54.99,-7.32,Londonderry,115.03,44.78,6.49,98.21
+GB,Licensed,55.0,-7.27,Londonderry,69.95,40.0,7.21,97.78
+GB,Licensed,54.18,-6.34,Newry,118.02,61.2,8.13,242.19
+GB,Company Owned,57.15,-2.1,Aberdeen,57.22,62.84,8.26,116.4
+GB,Company Owned,57.15,-2.1,Aberdeen,53.07,48.55,8.4,241.81
+GB,Licensed,57.17,-2.11,Aberdeen,75.77,48.3,6.67,101.47
+GB,Company Owned,57.14,-2.11,Aberdeen,96.26,86.28,7.52,130.42
+GB,Licensed,57.15,-2.21,Aberdeen,136.83,83.14,8.47,166.37
+GB,Company Owned,57.14,-2.11,Aberdeen,122.72,44.62,9.88,285.8
+GB,Company Owned,57.14,-2.1,Aberdeen,124.27,93.1,8.91,282.93
+GB,Licensed,51.48,-3.18,Cardiff,92.55,96.23,9.69,101.72
+GB,Franchise,55.94,-4.52,Dumbarton,84.59,46.14,9.05,139.55
+GB,Franchise,56.08,-3.4,Dumfermline,87.1,48.35,8.37,87.35
+GB,Licensed,55.01,-3.08,Dumfries,148.76,60.45,6.77,177.5
+GB,Franchise,55.07,-3.61,Dumfries,54.01,95.29,8.67,165.15
+GB,Company Owned,56.46,-2.97,Dundee,136.7,90.11,8.49,275.19
+GB,Company Owned,56.07,-3.46,Dunfermline,107.87,28.21,8.41,282.5
+GB,Company Owned,55.76,-4.18,East Kilbride,93.86,51.42,7.96,145.89
+GB,Company Owned,55.95,-3.18,Edinburgh,122.53,64.27,8.11,172.93
+GB,Franchise,55.95,-3.21,Edinburgh,98.67,60.25,7.34,274.06
+GB,Company Owned,55.95,-3.21,Edinburgh,137.34,35.51,8.08,251.68
+GB,Licensed,55.97,-3.23,Edinburgh,140.07,88.71,6.79,50.91
+GB,Company Owned,55.95,-3.2,Edinburgh,92.17,74.16,9.22,130.01
+GB,Company Owned,55.95,-3.22,Edinburgh,77.68,87.03,6.74,155.44
+GB,Company Owned,55.98,-3.18,Edinburgh,109.24,88.7,6.34,107.43
+GB,Company Owned,55.94,-3.19,Edinburgh,141.24,79.87,7.74,99.89
+GB,Company Owned,55.93,-3.11,Edinburgh,71.07,55.14,8.63,59.45
+GB,Company Owned,55.95,-3.19,Edinburgh,112.3,68.84,7.75,210.84
+GB,Company Owned,55.93,-3.21,Edinburgh,113.16,32.83,7.11,115.63
+GB,Franchise,55.9,-3.23,Edinburgh,123.31,73.89,8.23,63.09
+GB,Company Owned,55.95,-3.2,Edinburgh,63.16,34.34,7.39,107.74
+GB,Company Owned,55.94,-3.18,Edinburgh,121.58,75.52,9.73,250.48
+GB,Licensed,55.95,-3.36,Edinburgh,140.9,38.37,9.69,262.87
+GB,Company Owned,55.95,-3.19,Edinburgh,67.97,29.4,8.01,170.77
+GB,Company Owned,55.94,-3.31,Edinburgh,73.75,33.22,7.31,154.02
+GB,Company Owned,55.95,-3.2,Edinburgh,147.14,20.16,8.95,294.46
+GB,Licensed,55.94,-3.23,Edinburgh,68.1,77.5,6.15,100.14
+GB,Company Owned,55.95,-3.19,Edingurgh,135.44,78.59,7.9,103.84
+GB,Company Owned,57.65,-3.32,Elgin,99.23,61.19,7.35,122.97
+GB,Licensed,56.0,-3.78,Falkirk,74.72,32.91,9.68,93.19
+GB,Company Owned,55.86,-4.25,Glasgow,137.07,26.68,6.05,144.84
+GB,Company Owned,55.87,-4.27,Glasgow,94.53,21.53,8.21,277.71
+GB,Company Owned,55.86,-4.26,Glasgow,101.48,33.26,8.96,203.84
+GB,Company Owned,55.87,-4.14,Glasgow,85.92,91.27,7.94,152.99
+GB,Licensed,55.82,-4.34,Glasgow,109.3,39.32,6.34,283.6
+GB,Licensed,55.86,-4.26,Glasgow,66.35,48.34,9.89,62.12
+GB,Company Owned,55.86,-4.25,Glasgow,89.11,28.43,8.07,102.57
+GB,Company Owned,55.88,-4.29,Glasgow,146.94,37.79,8.46,191.47
+GB,Licensed,55.85,-4.29,Glasgow,75.81,61.54,6.95,203.89
+GB,Licensed,55.74,-2.87,Glasgow,115.67,68.62,7.93,59.89
+GB,Company Owned,55.86,-4.26,Glasgow,82.52,39.63,7.72,150.76
+GB,Company Owned,55.86,-4.25,Glasgow,127.35,24.62,6.3,212.29
+GB,Company Owned,55.88,-4.37,Glasgow,63.09,51.28,6.42,224.52
+GB,Company Owned,55.86,-4.25,Glasgow,146.98,38.74,9.35,209.53
+GB,Licensed,55.86,-4.35,Glasgow,95.38,37.56,6.96,130.14
+GB,Company Owned,55.86,-4.25,Glasgow,73.61,96.79,6.78,73.38
+GB,Company Owned,55.82,-4.34,Glasgow,57.35,69.3,8.02,156.78
+GB,Company Owned,57.48,-4.22,Inverness,66.98,64.55,9.07,82.19
+GB,Company Owned,57.48,-4.18,Inverness,101.98,53.26,6.25,286.91
+GB,Licensed,56.03,-3.85,Larbert,83.7,54.32,8.31,168.79
+GB,Franchise,55.85,-4.47,Linwood,132.89,63.27,6.48,129.31
+GB,Company Owned,55.88,-3.52,Livingston,93.09,75.71,6.15,241.58
+GB,Licensed,55.86,-4.43,Paisley,74.87,76.17,6.21,174.49
+GB,Licensed,55.86,-4.43,Paisley,111.71,33.74,9.34,127.51
+GB,Franchise,56.4,-3.43,Perth,120.68,60.01,6.47,252.99
+GB,Licensed,55.51,-4.61,Prestwick,66.7,52.96,6.18,266.79
+GB,Company Owned,56.34,-2.8,St Andrews,66.76,89.64,7.75,218.25
+GB,Company Owned,55.96,-3.21,Stockbridge,53.67,70.51,9.38,61.74
+GB,Franchise,51.53,-3.58,Bridgend,123.64,62.6,7.05,191.58
+GB,Company Owned,51.48,-3.18,Cardiff,116.38,29.23,7.69,240.82
+GB,Company Owned,51.48,-3.18,Cardiff,97.46,68.45,6.16,84.13
+GB,Licensed,51.54,-3.14,Cardiff,134.42,29.38,7.8,107.17
+GB,Franchise,51.48,-3.17,Cardiff,130.57,46.98,8.31,270.62
+GB,Licensed,51.52,-3.26,Cardiff,108.54,31.43,8.28,55.03
+GB,Company Owned,51.53,-3.19,Cardiff,136.83,75.37,7.33,238.18
+GB,Company Owned,51.48,-3.18,Cardiff,70.58,36.5,7.26,168.44
+GB,Company Owned,51.46,-3.17,Cardiff,61.19,51.35,6.43,161.69
+GB,Company Owned,51.48,-3.17,Cardiff,76.97,91.65,7.47,51.77
+GB,Company Owned,51.48,-3.18,Cardiff,55.71,36.35,6.4,254.85
+GB,Franchise,51.5,-3.14,Cardiff,103.12,60.62,9.07,139.96
+GB,Company Owned,51.45,-3.19,Cardiff,143.66,53.54,9.87,185.19
+GB,Franchise,52.41,-4.09,Ceredigion,53.93,21.45,9.88,219.33
+GB,Franchise,51.65,-3.02,Cwmbran,62.21,83.42,9.46,225.66
+GB,Licensed,51.53,-3.58,Glamorgan,95.22,25.52,8.4,289.0
+GB,Franchise,53.32,-3.82,Llandudno,143.39,57.94,8.8,182.83
+GB,Franchise,51.68,-4.14,Llanelli,81.62,64.85,7.14,149.93
+GB,Franchise,51.8,-4.08,Llanelli,100.72,70.27,8.52,288.43
+GB,Franchise,51.77,-2.81,Monmouth,54.16,75.09,7.82,210.53
+GB,Company Owned,51.54,-3.38,Pontyclun,64.83,40.26,7.93,124.54
+GB,Licensed,52.91,-4.33,Pwllheli Gwynedd,148.66,20.8,9.03,81.62
+GB,Franchise,53.27,-3.52,Rhyl,146.51,77.88,7.13,260.64
+GB,Franchise,53.27,-3.52,Rhyl,50.49,62.85,7.27,140.55
+GB,Franchise,51.62,-3.95,Swansea,145.18,86.89,9.7,215.12
+GB,Franchise,51.64,-3.93,Swansea,113.91,85.71,6.22,167.7
+GB,Licensed,51.62,-3.92,Swansea,136.79,87.47,7.94,99.73
+GB,Franchise,51.62,-3.91,Swansea,95.47,58.81,9.65,200.42
+GB,Franchise,53.03,-3.03,Wrexham,101.56,46.69,8.44,65.17
+GB,Company Owned,53.04,-2.99,Wrexham,98.88,83.32,8.19,153.34
+GR,Licensed,38.0,23.83,Aghia Paraskevi,116.69,56.1,7.0,186.65
+GR,Licensed,38.01,23.82,Aghia Paraskevi,63.97,34.68,7.37,159.01
+GR,Licensed,38.01,23.8,Athens,53.0,88.4,9.41,237.17
+GR,Licensed,38.05,23.79,Athens,80.79,90.6,8.24,256.98
+GR,Licensed,37.86,23.75,Athens,120.47,57.3,8.06,242.81
+GR,Licensed,37.99,23.76,Athens,70.19,26.06,6.4,59.7
+GR,Licensed,37.98,23.73,Athens,117.34,51.03,6.06,98.53
+GR,Licensed,37.98,23.75,Athens,146.99,84.28,9.85,184.15
+GR,Licensed,38.09,23.8,Athens,59.39,92.14,7.51,283.71
+GR,Licensed,37.93,23.69,Athens,117.26,36.28,8.41,258.74
+GR,Licensed,37.98,23.73,Athens,94.38,25.36,6.32,260.63
+GR,Licensed,38.03,23.79,Athens,136.81,90.19,8.73,125.8
+GR,Licensed,38.07,23.81,Athens,67.71,51.15,9.73,157.36
+GR,Licensed,37.95,23.72,Athens,119.26,63.34,8.3,167.68
+GR,Licensed,37.91,23.73,Athens,133.81,97.45,6.5,89.34
+GR,Licensed,38.05,23.84,Athens,144.46,25.33,8.33,57.77
+GR,Licensed,38.01,23.78,Chalandri,118.32,71.87,9.07,286.73
+GR,Licensed,37.86,23.75,Glyfada,99.72,25.93,7.63,110.18
+GR,Licensed,37.96,23.7,Kalithea,111.78,50.04,9.52,109.99
+GR,Licensed,37.94,23.65,Piraeus,136.89,84.31,8.59,70.84
+GR,Licensed,40.63,22.95,Thessaloniki,107.06,54.68,9.6,282.13
+GR,Licensed,40.63,22.94,Thessaloniki,53.04,99.77,8.49,194.93
+GR,Licensed,37.44,25.33,Mykonos,143.09,64.72,6.53,216.76
+GR,Licensed,36.45,28.22,Rhodes,118.95,45.69,7.24,277.89
+GR,Licensed,35.52,24.02,Crete,117.65,37.61,6.81,136.41
+GR,Licensed,35.34,25.12,Heraklion,71.57,48.04,9.64,205.38
+GR,Licensed,35.34,25.13,Heraklion,115.89,49.8,9.04,59.7
+GR,Licensed,35.34,25.13,Heraklion,89.39,25.5,8.71,96.69
+HU,Joint Venture,47.5,19.03,Budapest,115.12,49.57,7.2,257.81
+HU,Joint Venture,47.49,19.02,Budapest,60.66,57.14,6.74,241.69
+HU,Joint Venture,47.49,19.06,Budapest,115.78,77.82,9.03,137.66
+HU,Joint Venture,47.5,19.08,Budapest,149.94,72.54,7.9,144.2
+HU,Joint Venture,47.51,19.06,Budapest,54.82,76.7,6.9,183.39
+HU,Joint Venture,47.51,19.03,Budapest,147.72,20.67,8.47,50.06
+HU,Joint Venture,47.5,19.09,Budapest,90.69,37.41,6.16,110.31
+HU,Joint Venture,47.47,19.06,Budapest,137.08,72.93,7.3,102.06
+HU,Joint Venture,47.51,19.06,Budapest,128.24,58.72,7.87,112.62
+HU,Joint Venture,47.49,19.06,Budapest,106.7,20.43,6.59,251.48
+HU,Joint Venture,47.5,19.14,Budapest,123.84,84.36,9.94,119.92
+HU,Joint Venture,47.49,19.07,Budapest,137.85,81.82,6.84,97.88
+HU,Joint Venture,47.5,19.05,Budapest,90.41,63.87,6.52,176.07
+HU,Joint Venture,47.51,19.03,Budapest,82.7,25.32,6.81,266.41
+HU,Joint Venture,47.5,19.07,Budapest,116.76,81.32,9.08,110.34
+HU,Joint Venture,47.5,19.05,Budapest,130.78,66.7,7.7,69.63
+IE,Licensed,53.21,-6.11,Bray,126.23,82.56,8.26,139.1
+IE,Licensed,51.89,-8.4,Cork,129.78,80.14,6.08,236.91
+IE,Licensed,51.92,-8.47,Cork,93.56,84.24,6.14,187.67
+IE,Licensed,51.9,-8.47,Cork City,131.78,61.44,7.78,254.2
+IE,Licensed,51.88,-8.44,Douglas,62.02,31.23,9.27,289.9
+IE,Licensed,53.34,-6.26,Dublin,104.45,73.69,9.54,248.17
+IE,Licensed,53.33,-6.25,Dublin,50.58,69.64,6.35,200.95
+IE,Licensed,53.35,-6.26,Dublin,82.46,79.38,8.15,173.34
+IE,Licensed,54.0,-6.4,Dublin,86.65,33.59,9.65,60.02
+IE,Licensed,53.35,-6.26,Dublin 2,89.62,35.6,7.55,296.08
+IE,Licensed,53.27,-9.05,Galway,119.55,91.23,9.32,145.87
+IE,Licensed,52.66,-7.25,Kilkenny,88.86,80.0,6.53,88.06
+IE,Licensed,52.66,-8.63,Limerick,94.87,92.66,9.74,216.68
+IE,Licensed,52.66,-8.62,Limerick,73.75,80.7,9.01,121.07
+IE,Licensed,53.35,-6.45,Lucan,87.33,67.77,9.77,196.44
+IE,Licensed,52.8,-6.15,Arklow Co Wicklow,72.73,72.33,8.71,196.69
+IE,Licensed,53.42,-7.94,Athlone,57.32,91.13,7.45,161.43
+IE,Licensed,53.24,-6.14,Cabinteely Dublin,110.34,66.3,9.75,259.03
+IE,Licensed,53.72,-6.35,Drogheda,116.82,70.59,7.1,116.24
+IE,Licensed,53.4,-6.18,Dublin,111.95,32.52,7.33,162.16
+IE,Licensed,53.29,-6.2,Dublin,96.35,57.91,8.8,184.42
+IE,Licensed,53.3,-6.18,Dublin,87.98,77.31,9.06,215.91
+IE,Licensed,53.39,-6.39,Dublin,136.33,41.68,9.72,245.99
+IE,Licensed,53.29,-6.14,Dublin,101.91,36.18,6.82,148.7
+IE,Licensed,53.35,-6.26,Dublin,97.92,45.11,9.19,211.51
+IE,Licensed,53.39,-6.39,Dublin,52.56,39.32,8.95,87.65
+IE,Licensed,53.35,-6.26,Dublin,84.12,37.19,6.26,283.16
+IE,Licensed,53.34,-6.26,Dublin,88.02,53.99,7.55,145.76
+IE,Licensed,53.35,-6.26,Dublin,89.88,92.63,7.13,232.38
+IE,Licensed,53.39,-6.25,Dublin,108.02,60.56,7.22,55.09
+IE,Licensed,53.33,-6.25,Dublin,103.36,35.03,9.93,101.3
+IE,Licensed,53.33,-6.23,Dublin,110.79,26.16,8.57,171.77
+IE,Licensed,53.35,-6.26,Dublin,126.49,75.69,8.87,269.56
+IE,Licensed,53.35,-6.26,Dublin,131.3,50.62,9.91,181.81
+IE,Licensed,53.32,-6.27,Dublin,121.81,85.75,7.51,282.47
+IE,Licensed,53.29,-6.24,Dublin,145.55,72.76,9.21,170.95
+IE,Licensed,53.33,-6.24,Dublin,51.82,83.7,7.74,172.61
+IE,Licensed,53.35,-6.26,Dublin,69.58,41.76,9.48,79.94
+IE,Licensed,53.34,-6.27,Dublin,50.76,75.39,6.72,250.66
+IE,Licensed,53.29,-6.24,Dublin,114.75,41.12,9.79,111.74
+IE,Licensed,53.32,-6.32,Dublin,139.8,95.13,6.88,274.9
+IE,Licensed,53.39,-6.39,Dublin,74.35,70.91,7.3,277.71
+IE,Licensed,53.29,-6.27,Dublin,142.7,45.96,9.02,285.83
+IE,Licensed,53.36,-6.23,Dublin,56.03,41.56,7.58,180.06
+IE,Licensed,53.35,-6.39,Dublin,143.44,35.27,8.43,219.27
+IE,Licensed,53.35,-6.25,Dublin,85.16,75.57,7.78,244.63
+IE,Licensed,53.33,-6.26,Dublin,60.14,37.5,8.97,82.75
+IE,Licensed,53.29,-6.14,Dublin,98.59,67.62,6.91,200.24
+IE,Licensed,53.34,-6.26,Dublin,75.68,41.17,6.23,58.57
+IE,Licensed,53.39,-6.39,Dublin,78.49,72.96,7.2,174.39
+IE,Licensed,53.29,-6.25,Dublin,80.73,85.2,7.9,88.71
+IE,Licensed,53.35,-6.26,Dublin,130.3,82.24,6.67,95.73
+IE,Licensed,53.28,-6.22,Dublin,103.92,80.87,7.42,141.26
+IE,Licensed,53.35,-6.24,Dublin,81.13,35.02,7.6,158.11
+IE,Licensed,53.29,-6.13,Dublin,111.03,27.07,6.23,205.79
+IE,Licensed,53.35,-6.26,Dublin,121.62,75.92,8.33,68.61
+IE,Licensed,53.32,-6.27,Dublin,77.26,49.47,9.54,175.92
+IE,Licensed,53.43,-6.24,Dublin,91.35,54.59,6.61,95.66
+IE,Licensed,53.34,-6.26,Dublin,62.19,22.49,8.39,193.49
+IE,Licensed,53.39,-6.11,Dublin,68.11,40.77,8.66,209.35
+IE,Licensed,53.45,-6.23,Dublin,118.11,22.69,7.68,189.18
+IE,Licensed,53.35,-6.23,Dublin 1,68.14,90.33,8.8,234.57
+IE,Licensed,53.35,-6.26,Dublin 1,102.52,39.47,7.64,133.9
+IE,Licensed,53.39,-6.07,Howth,120.9,64.59,8.02,241.28
+IE,Licensed,53.45,-6.15,Malahide,60.69,23.12,6.03,158.19
+IE,Licensed,53.18,-6.8,Newbridge,106.73,73.35,8.77,171.05
+IE,Licensed,53.45,-6.22,Swords,75.66,45.84,8.65,212.03
+IE,Licensed,52.26,-7.11,Waterford,146.29,91.83,6.15,54.59
+IE,Licensed,51.89,-8.41,Cork,98.35,91.05,7.47,213.5
+IE,Licensed,51.9,-8.47,Cork,130.6,46.02,9.92,204.65
+IE,Licensed,51.9,-8.48,Cork,105.02,92.08,7.68,127.46
+IE,Licensed,51.9,-8.46,Cork,54.34,99.69,8.01,71.45
+IE,Licensed,52.67,-8.55,Limerick,113.32,86.03,9.64,72.73
+NL,Licensed,51.98,5.9,Arnhem,145.14,87.59,8.87,280.81
+NL,Licensed,51.84,5.85,Nijmegen,110.16,39.92,8.33,222.32
+NL,Licensed,53.22,6.56,Groningen,131.92,66.14,9.19,81.78
+NL,Licensed,53.21,6.56,Groningen,138.42,25.38,9.46,139.18
+NL,Licensed,51.69,5.3,'s-Hertogenbosch,72.81,27.59,7.83,198.12
+NL,Licensed,51.6,4.78,Breda,71.2,99.91,7.9,258.89
+NL,Licensed,51.44,5.48,Eindhoven,111.1,46.13,7.54,60.92
+NL,Licensed,51.46,5.4,Eindhoven,91.1,79.85,9.87,109.16
+NL,Licensed,51.56,5.04,Tilburg,133.99,84.53,8.79,272.44
+NL,Company Owned,52.3,4.86,Amstelveen,140.0,88.64,6.33,52.29
+NL,Licensed,52.39,4.84,Amsterdam,85.34,99.81,9.45,100.35
+NL,Company Owned,52.37,4.89,Amsterdam,73.69,39.32,7.92,289.76
+NL,Licensed,52.35,4.92,Amsterdam,128.05,23.23,6.28,203.35
+NL,Company Owned,52.36,4.89,Amsterdam,77.48,52.9,8.2,115.42
+NL,Company Owned,52.36,4.88,Amsterdam,132.26,30.41,7.67,66.75
+NL,Licensed,52.31,4.95,Amsterdam,92.37,21.79,9.51,57.05
+NL,Licensed,52.38,4.9,Amsterdam,116.75,48.83,6.82,111.19
+NL,Licensed,52.38,4.9,Amsterdam,59.55,82.7,9.31,270.37
+NL,Company Owned,52.37,4.89,Amsterdam,112.39,65.29,8.23,153.98
+NL,Company Owned,52.37,4.9,Amsterdam,95.18,45.02,6.22,230.08
+NL,Company Owned,52.36,4.88,Amsterdam,108.66,72.35,9.89,279.57
+NL,Licensed,52.34,4.87,Amsterdam,66.8,38.56,8.05,152.01
+NL,Company Owned,52.35,4.88,Amsterdam,123.69,21.15,7.16,97.82
+NL,Licensed,52.38,4.9,Amsterdam,136.28,81.15,7.88,179.28
+NL,Licensed,52.3,4.96,Amsterdam,71.67,69.9,9.43,277.02
+NL,Licensed,52.39,4.64,Haarlem,59.57,80.98,7.22,251.09
+NL,Licensed,52.23,5.18,Hilversum,52.36,23.12,6.77,66.46
+NL,Licensed,52.26,4.69,Rijsenhout,114.2,86.97,6.52,223.14
+NL,Licensed,51.92,4.52,Rotterdam,110.71,69.56,7.19,192.97
+NL,Licensed,52.31,4.76,Schiphol,104.67,65.07,9.12,276.87
+NL,Licensed,52.31,4.77,Schiphol,73.19,69.97,7.89,80.62
+NL,Licensed,52.31,4.75,Schiphol,89.09,89.15,6.91,183.51
+NL,Licensed,52.31,4.75,Schiphol,109.45,66.95,6.66,269.87
+NL,Licensed,52.31,4.76,Schiphol,99.68,66.48,7.33,152.51
+NL,Licensed,52.31,4.75,Schiphol,148.78,99.25,9.76,170.5
+NL,Licensed,52.31,4.75,Schipol,63.64,80.54,7.37,67.62
+NL,Licensed,52.31,4.75,Schipol,119.51,55.38,9.95,119.54
+NL,Licensed,52.26,6.16,Deventer,90.43,76.59,7.94,131.13
+NL,Licensed,52.24,6.85,Enschede,92.82,51.14,6.72,286.28
+NL,Licensed,52.51,6.09,Zwolle,121.76,38.31,9.56,120.67
+NL,Licensed,52.15,5.37,Amersfoort,119.24,67.75,7.84,165.22
+NL,Licensed,52.14,5.0,Breukelen,149.13,94.25,8.84,217.83
+NL,Licensed,52.07,5.03,De Meern,62.84,94.33,9.93,90.55
+NL,Licensed,52.08,4.98,Harmelen,60.41,47.35,6.2,171.61
+NL,Licensed,52.09,5.11,Utrecht,122.43,62.21,6.39,234.63
+NL,Licensed,52.09,5.11,Utrecht,107.84,36.93,8.88,266.71
+NL,Licensed,52.09,5.11,Utrecht,77.42,99.65,7.13,206.56
+NL,Company Owned,52.09,5.11,Utrecht,57.94,98.49,6.74,217.26
+NL,Licensed,52.01,4.36,Delft,58.57,71.96,6.16,81.57
+NL,Licensed,52.08,4.32,Den Haag,139.42,84.35,6.09,286.44
+NL,Licensed,52.1,4.29,Den Haag,69.19,77.21,9.1,83.14
+NL,Company Owned,52.08,4.31,Den Haag,82.34,67.45,6.54,243.67
+NL,Licensed,52.07,4.32,Den Haag,72.67,24.27,7.87,116.2
+NL,Licensed,51.74,4.63,Dordrecht,85.5,56.38,8.42,283.4
+NL,Licensed,52.17,4.48,Leiden,56.94,73.98,7.71,229.99
+NL,Licensed,51.9,4.98,Meerkerk,101.91,74.2,6.11,238.45
+NL,Licensed,52.03,4.35,Rijswijk,56.76,49.85,9.13,104.76
+NL,Licensed,51.92,4.47,Rotterdam,130.04,95.34,6.04,160.76
+NL,Licensed,51.92,4.47,Rotterdam,73.37,33.39,9.05,204.45
+NO,Licensed,60.14,11.17,Jessheim,104.0,60.03,9.57,242.49
+NO,Licensed,59.89,10.52,Sandvika,138.01,75.27,7.73,75.99
+NO,Licensed,60.19,11.1,Gardermoen,115.09,75.77,8.14,290.59
+NO,Licensed,59.92,10.75,Oslo,103.3,71.89,7.91,272.56
+NO,Licensed,59.91,10.73,Oslo,82.43,42.02,7.56,117.59
+NO,Licensed,59.91,10.75,Oslo,83.3,32.5,9.55,255.69
+NO,Licensed,59.91,10.75,Oslo,116.95,70.88,9.58,179.58
+NO,Licensed,59.92,10.68,Oslo,149.41,67.94,7.34,165.45
+NO,Licensed,59.95,10.77,Oslo,116.18,34.35,8.46,128.61
+NO,Licensed,59.93,10.72,Oslo,105.78,76.41,9.71,195.24
+NO,Licensed,59.74,10.2,Drammen,123.07,56.41,9.85,232.47
+NO,Licensed,58.97,5.73,Stavanger,96.52,73.42,8.04,152.73
+NO,Licensed,60.39,5.32,Bergen,56.01,86.99,7.81,207.3
+NO,Licensed,60.4,5.33,Bergen,106.23,33.58,7.11,224.83
+NO,Licensed,63.43,10.41,Trondheim,145.76,21.53,9.84,227.78
+NO,Licensed,63.43,10.4,Trondheim,67.53,82.33,6.57,62.99
+NO,Licensed,63.46,10.92,Stjørdal,119.0,68.78,8.32,264.94
+PL,Joint Venture,51.05,16.96,Bielany Wroclawskie,70.09,75.97,7.13,164.56
+PL,Joint Venture,51.11,17.04,Wroclaw,103.58,87.05,7.12,115.6
+PL,Joint Venture,51.09,17.02,Wrocław,59.67,84.22,7.62,110.44
+PL,Joint Venture,51.12,16.99,Wrocław,95.04,96.87,10.0,170.75
+PL,Joint Venture,51.1,17.03,Wrocław,125.62,62.87,6.22,271.71
+PL,Joint Venture,51.11,17.06,Wrocław,84.76,59.08,8.31,144.59
+PL,Joint Venture,51.1,17.04,Wrocław,116.49,52.15,6.33,237.43
+PL,Joint Venture,51.11,17.03,Wrocław,129.54,32.3,6.62,74.2
+PL,Joint Venture,51.75,19.45,Łódź,142.72,65.81,7.76,169.01
+PL,Joint Venture,50.07,19.95,Kraków,73.46,42.16,8.04,297.92
+PL,Joint Venture,50.03,19.95,Kraków,89.93,93.7,7.04,242.61
+PL,Joint Venture,50.07,19.95,Kraków,65.24,66.66,7.27,102.63
+PL,Joint Venture,50.06,19.94,Kraków,149.25,67.43,6.35,175.36
+PL,Joint Venture,50.06,19.93,Krakow,142.7,48.39,7.21,108.41
+PL,Joint Venture,52.16,21.07,Warsaw,104.0,24.16,9.87,152.39
+PL,Joint Venture,52.19,21.06,Warsaw,134.2,22.54,9.78,245.02
+PL,Joint Venture,52.3,21.06,Warsaw,102.1,53.87,7.34,242.81
+PL,Joint Venture,52.21,20.95,Warsaw,112.36,26.77,8.28,107.03
+PL,Joint Venture,52.23,21.11,Warszawa,58.91,68.55,9.64,280.56
+PL,Joint Venture,52.23,21.0,Warszawa,125.53,90.48,6.02,198.14
+PL,Joint Venture,52.26,21.05,Warszawa,62.77,90.63,9.24,144.98
+PL,Joint Venture,52.23,21.0,Warszawa,132.61,72.72,9.79,175.48
+PL,Joint Venture,52.18,21.0,Warszawa,128.2,36.9,6.37,201.27
+PL,Joint Venture,52.24,21.02,Warszawa,120.87,89.04,6.65,189.97
+PL,Joint Venture,52.23,21.01,Warszawa,53.62,90.89,9.84,171.6
+PL,Joint Venture,52.23,21.01,Warszawa,80.31,35.73,8.15,176.23
+PL,Joint Venture,52.23,21.0,Warszawa,76.31,78.99,6.06,94.1
+PL,Joint Venture,52.22,21.02,Warszawa,86.01,42.92,7.03,253.18
+PL,Joint Venture,52.25,21.0,Warszawa,58.76,84.21,7.8,185.44
+PL,Joint Venture,52.24,20.99,Warszawa,143.7,99.78,8.77,82.77
+PL,Joint Venture,52.23,21.02,Warszawa,105.38,22.4,8.93,241.54
+PL,Joint Venture,52.21,21.02,Warszawa,80.55,91.79,9.98,283.11
+PL,Joint Venture,54.4,18.57,Gdańsk,89.7,69.81,7.15,286.83
+PL,Joint Venture,54.38,18.6,Gdańsk,94.72,97.87,8.15,142.25
+PL,Joint Venture,54.38,18.61,Gdańsk,110.06,57.2,8.13,83.88
+PL,Joint Venture,54.52,18.54,Gdynia,101.57,87.79,7.62,179.6
+PL,Joint Venture,54.5,18.53,Gdynia,141.94,24.99,6.68,78.15
+PL,Joint Venture,54.52,18.55,Gdynia,99.7,46.82,9.91,283.5
+PL,Joint Venture,54.45,18.57,Sopot,149.22,25.36,9.41,95.89
+PL,Joint Venture,50.26,19.02,Katowice,135.14,98.03,7.99,113.19
+PL,Joint Venture,50.27,18.99,Katowice,70.85,85.36,8.41,151.66
+PL,Joint Venture,50.26,19.02,Katowice,143.06,88.2,6.91,145.79
+PL,Joint Venture,52.41,16.86,Poznan,61.64,95.04,8.18,248.67
+PL,Joint Venture,52.4,16.95,Poznan,131.74,26.81,8.78,164.08
+PL,Joint Venture,52.4,16.95,Poznan,88.06,50.85,8.06,92.69
+PL,Joint Venture,52.41,16.93,Poznań,137.8,25.68,9.96,116.8
+PL,Joint Venture,52.4,16.91,Poznań,136.81,36.86,8.45,177.28
+PL,Joint Venture,52.4,16.93,Poznań,130.59,38.35,7.48,86.86
+PL,Joint Venture,52.38,16.99,Poznań,129.0,57.53,9.09,202.91
+PL,Joint Venture,52.44,16.92,Poznań,80.47,41.48,6.68,191.44
+PL,Joint Venture,53.43,14.55,Szczecin,58.09,28.08,7.54,228.68
+PL,Joint Venture,53.43,14.55,Szczecin,90.3,33.4,7.39,284.43
+PL,Joint Venture,53.43,14.55,Szczecin,67.35,31.78,7.73,278.06
+PT,Licensed,38.73,-9.15,Lisbon,119.5,97.85,9.13,286.52
+PT,Licensed,38.66,-9.16,Almada,84.61,80.74,7.94,111.18
+PT,Licensed,38.78,-9.22,Amadora,147.56,97.42,9.18,82.89
+PT,Licensed,38.73,-9.24,Carnaxide,114.1,55.18,8.31,125.57
+PT,Licensed,38.71,-9.44,Cascais,132.25,42.27,7.37,273.77
+PT,Licensed,38.76,-9.13,Lisboa,63.25,83.86,9.24,293.01
+PT,Licensed,38.71,-9.14,Lisboa,136.2,46.1,6.95,264.83
+PT,Licensed,38.71,-9.15,Lisboa,142.28,43.95,6.9,77.5
+PT,Licensed,38.77,-9.13,Lisboa,98.71,38.6,8.02,286.86
+PT,Licensed,38.7,-9.2,Lisboa,110.63,30.37,7.04,155.84
+PT,Licensed,41.13,-8.61,Vila Nova de Gaia Porto,126.48,40.52,6.04,52.33
+RO,Licensed,45.64,25.59,Brasov,67.48,48.43,8.59,160.6
+RO,Licensed,44.45,26.12,Bucharest,100.26,73.92,8.04,61.52
+RO,Licensed,44.42,26.15,Bucharest,89.87,25.01,7.78,185.97
+RO,Licensed,44.42,26.13,Bucharest,64.64,36.84,9.87,134.64
+RO,Licensed,44.39,26.12,Bucharest,86.75,84.72,8.28,168.36
+RO,Licensed,44.46,26.1,Bucharest,56.82,31.75,9.45,203.29
+RO,Licensed,44.43,26.1,Bucharest,52.58,47.41,6.56,267.2
+RO,Licensed,44.43,26.1,Bucharest,63.52,89.17,8.28,215.48
+RO,Licensed,44.43,26.1,Bucharest,146.31,32.39,9.47,158.51
+RO,Licensed,44.45,26.08,Bucharest,104.95,26.62,8.33,254.86
+RO,Licensed,44.43,26.05,Bucharest,146.58,58.76,8.87,276.4
+RO,Licensed,44.48,26.11,Bucharest,93.25,44.19,7.49,79.94
+RO,Licensed,44.5,26.16,Bucharest,81.18,65.07,6.37,182.98
+RO,Licensed,44.43,26.1,Bucharest,100.61,84.3,7.83,121.13
+RO,Licensed,44.43,26.1,Bucharest,93.95,30.97,7.58,61.77
+RO,Licensed,44.43,26.1,Bucharest,60.57,66.46,9.47,217.14
+RO,Licensed,46.75,23.53,Cluj,114.08,60.44,6.98,265.69
+RO,Licensed,46.77,23.62,Cluj-Napoca,71.6,31.53,9.87,90.73
+RO,Licensed,44.21,28.65,Constanta,111.96,69.92,9.83,253.1
+RO,Licensed,44.2,28.63,Constanta,115.02,41.89,6.99,263.35
+RO,Licensed,44.32,23.79,Craiova,65.2,59.03,7.39,278.59
+RO,Licensed,44.39,26.05,Iasi City,56.13,26.58,9.58,116.32
+RO,Licensed,44.39,26.05,Iasi City,128.08,56.77,9.87,275.99
+RO,Licensed,44.95,26.03,Ploiesti,95.98,44.52,7.77,130.17
+RO,Licensed,45.75,21.22,Timisoara,55.82,85.79,7.28,188.08
+RO,Licensed,45.73,21.2,Timisoara,149.49,24.56,8.1,62.63
+RO,Licensed,45.75,21.23,Timisoara,55.78,53.49,8.75,60.97
+RU,Joint Venture,45.03,38.97,Krasnodar,119.5,56.67,7.09,230.09
+RU,Joint Venture,45.03,38.97,Krasnodar,148.37,78.0,8.95,161.12
+RU,Joint Venture,43.6,39.73,Sochi,73.92,65.94,6.21,114.07
+RU,Joint Venture,55.91,37.4,Khimki,64.22,73.38,6.2,97.6
+RU,Joint Venture,55.76,37.62,Kotelniki,62.14,82.16,7.55,217.49
+RU,Joint Venture,55.65,37.84,Kotelniki,80.33,88.98,7.41,50.1
+RU,Joint Venture,55.82,37.39,Krasnogorsk,60.1,45.11,7.26,251.47
+RU,Joint Venture,55.92,37.71,Mytischi,119.22,63.04,7.96,69.81
+RU,Joint Venture,55.73,37.59,Moscow,56.23,87.21,7.28,97.87
+RU,Joint Venture,55.78,37.67,Moscow,100.94,99.16,6.77,146.56
+RU,Joint Venture,55.75,37.54,Moscow,149.67,91.16,7.24,171.21
+RU,Joint Venture,55.77,37.42,Moscow,131.4,49.72,9.9,138.75
+RU,Joint Venture,55.76,37.62,Moscow,111.52,35.61,7.64,130.18
+RU,Joint Venture,55.75,37.54,Moscow,80.63,59.15,7.78,290.98
+RU,Joint Venture,55.82,37.5,Moscow,112.39,79.33,8.31,210.39
+RU,Joint Venture,55.59,37.72,Moscow,102.7,59.41,9.93,55.86
+RU,Joint Venture,55.75,37.63,Moscow,92.61,58.65,6.97,157.54
+RU,Joint Venture,55.82,37.39,Moscow,63.07,87.06,8.73,268.75
+RU,Joint Venture,55.77,37.6,Moscow,138.66,48.91,8.86,125.36
+RU,Joint Venture,55.79,37.58,Moscow,94.98,88.78,8.43,73.64
+RU,Joint Venture,55.75,37.65,Moscow,69.46,52.54,6.35,239.6
+RU,Joint Venture,55.79,37.53,Moscow,86.78,46.26,8.71,201.5
+RU,Joint Venture,55.8,37.62,Moscow,91.41,56.32,6.26,192.58
+RU,Joint Venture,55.82,37.5,Moscow,132.75,81.0,8.38,63.39
+RU,Joint Venture,55.64,37.53,Moscow,123.36,30.08,8.96,85.12
+RU,Joint Venture,55.77,37.59,Moscow,126.93,35.71,6.84,205.64
+RU,Joint Venture,55.76,37.66,Moscow,51.1,96.12,9.37,101.96
+RU,Joint Venture,55.79,37.71,Moscow,91.62,34.04,6.12,176.02
+RU,Joint Venture,55.78,37.59,Moscow,98.13,65.42,9.38,186.22
+RU,Joint Venture,55.69,37.53,Moscow,51.92,66.35,7.84,120.88
+RU,Joint Venture,55.73,37.58,Moscow,75.98,59.17,6.87,287.11
+RU,Joint Venture,55.81,37.46,Moscow,126.03,71.58,6.54,260.62
+RU,Joint Venture,55.81,37.39,Moscow,63.71,38.39,9.81,230.59
+RU,Joint Venture,55.79,37.68,Moscow,103.53,64.21,6.29,69.5
+RU,Joint Venture,55.66,37.48,Moscow,71.52,49.77,6.8,76.53
+RU,Joint Venture,55.73,37.63,Moscow,51.21,72.93,7.39,173.2
+RU,Joint Venture,55.91,37.59,Moscow,74.12,31.3,8.48,90.18
+RU,Joint Venture,55.76,37.63,Moscow,147.59,65.67,8.18,294.57
+RU,Joint Venture,55.71,37.62,Moscow,130.15,34.82,6.5,89.63
+RU,Joint Venture,55.73,37.59,Moscow,145.96,42.29,7.16,171.87
+RU,Joint Venture,55.69,37.53,Moscow,98.79,37.5,6.96,141.03
+RU,Joint Venture,55.84,37.49,Moscow,60.97,34.63,6.85,209.85
+RU,Joint Venture,55.75,37.6,Moscow,104.8,86.06,7.64,82.26
+RU,Joint Venture,55.74,37.41,Moscow,95.44,42.86,8.82,157.58
+RU,Joint Venture,55.73,37.64,Moscow,134.44,94.17,6.87,118.68
+RU,Joint Venture,55.74,37.57,Moscow,59.81,97.59,7.47,271.94
+RU,Joint Venture,55.71,37.64,Moscow,98.82,65.7,7.56,60.15
+RU,Joint Venture,55.78,37.6,Moscow,65.0,31.44,9.91,278.43
+RU,Joint Venture,55.6,37.49,Moscow,82.47,49.96,9.82,258.25
+RU,Joint Venture,55.84,37.48,Moscow,123.74,83.82,9.2,124.39
+RU,Joint Venture,55.77,37.59,Moscow,97.6,49.39,6.97,247.32
+RU,Joint Venture,55.73,37.64,Moscow,87.59,26.96,6.27,57.8
+RU,Joint Venture,55.76,37.61,Moscow,89.45,64.54,7.27,291.72
+RU,Joint Venture,55.79,37.53,Moscow,95.94,87.61,7.07,181.65
+RU,Joint Venture,55.77,37.38,Moscow,128.5,83.67,8.02,125.82
+RU,Joint Venture,55.8,37.54,Moscow,139.21,34.01,9.11,140.65
+RU,Joint Venture,55.88,37.33,Moscow,145.53,73.82,9.43,66.6
+RU,Joint Venture,55.73,37.67,Moscow,128.69,37.64,9.38,297.34
+RU,Joint Venture,55.74,37.5,Moscow,81.54,37.46,7.44,59.82
+RU,Joint Venture,55.77,38.62,Moscow,118.81,89.93,8.75,213.73
+RU,Joint Venture,55.84,37.54,Moscow,93.76,39.97,7.25,160.68
+RU,Joint Venture,55.76,37.62,Moscow,75.47,41.06,6.24,287.23
+RU,Joint Venture,55.68,37.47,Moscow,134.09,20.05,8.81,111.5
+RU,Joint Venture,55.88,37.45,Moscow,53.84,89.65,6.04,183.02
+RU,Joint Venture,55.69,37.6,Moscow,140.18,83.41,7.64,170.59
+RU,Joint Venture,55.66,37.48,Moscow,96.15,70.19,7.32,225.72
+RU,Joint Venture,55.73,37.64,Moscow,113.72,80.02,8.77,67.0
+RU,Joint Venture,55.74,37.58,Moscow,115.94,32.16,9.06,98.45
+RU,Joint Venture,55.74,37.56,Moscow,139.51,56.67,7.22,103.64
+RU,Joint Venture,55.76,37.63,Moscow,113.67,48.1,9.25,234.54
+RU,Joint Venture,55.8,37.52,Moscow,111.39,27.5,7.18,97.28
+RU,Joint Venture,55.82,37.39,Moscow,56.67,58.89,7.79,193.37
+RU,Joint Venture,55.8,37.6,Moscow,101.84,93.66,8.91,103.81
+RU,Joint Venture,55.7,37.62,Moscow,65.02,23.2,8.77,265.41
+RU,Joint Venture,55.66,37.63,Moscow,123.74,43.32,9.95,285.55
+RU,Joint Venture,55.8,37.48,Moscow,101.22,36.6,6.9,179.62
+RU,Joint Venture,55.75,37.54,Moscow,118.02,39.05,8.65,138.08
+RU,Joint Venture,55.76,37.66,Moscow,54.17,92.67,8.44,108.51
+RU,Joint Venture,55.76,37.66,Moscow,58.48,57.45,9.66,62.45
+RU,Joint Venture,55.82,37.5,Moscow,121.63,57.3,6.63,117.13
+RU,Joint Venture,55.77,37.6,Moscow,57.21,80.85,9.01,213.56
+RU,Joint Venture,55.61,37.61,Moscow,57.13,32.36,8.27,183.4
+RU,Joint Venture,55.96,37.42,"Moscow Region, Khimki",51.21,58.98,7.1,286.01
+RU,Joint Venture,47.22,39.72,Rostov-on-Don,145.65,54.4,7.9,149.07
+RU,Joint Venture,47.29,39.85,Rostov-on-Don,123.75,67.75,7.34,223.47
+RU,Joint Venture,47.26,39.72,Rostov-on-Don,85.33,99.96,8.32,172.33
+RU,Joint Venture,53.51,50.15,Samara,79.65,81.56,9.56,178.14
+RU,Joint Venture,59.87,30.35,S-Petersburg,84.97,51.83,8.28,116.94
+RU,Joint Venture,59.93,30.36,Saint Petersburg,127.47,86.2,8.53,163.74
+RU,Joint Venture,59.98,30.21,Saint Petersburg,116.14,33.66,8.07,167.7
+RU,Joint Venture,59.89,30.52,Saint Petersburg,68.52,22.44,6.2,226.66
+RU,Joint Venture,59.93,30.35,Saint Petersburg,67.41,36.36,6.93,285.16
+RU,Joint Venture,59.96,30.31,Saint-Petersbug,59.84,47.23,7.97,132.33
+RU,Joint Venture,59.93,30.35,Saint-Petersburg,116.03,60.85,7.24,60.55
+RU,Joint Venture,59.94,30.33,Saint-Petersburg,126.44,69.21,6.73,174.07
+RU,Joint Venture,59.93,30.36,Saint-Petersburg,76.5,92.85,8.02,186.12
+RU,Joint Venture,59.93,30.36,Saint-Petersburg,52.09,60.79,7.29,92.11
+RU,Joint Venture,59.99,30.35,Saint-Petersburg,58.22,60.1,7.03,240.12
+RU,Joint Venture,59.88,30.37,Saint-Petersburg,146.79,24.02,7.86,296.23
+RU,Joint Venture,59.94,30.32,Saint-Petersburg,79.54,22.79,6.53,286.44
+RU,Licensed,59.8,30.27,St Petersburg,126.92,64.09,9.71,99.28
+RU,Licensed,59.8,30.27,St Petersburg,112.47,55.05,9.47,268.84
+RU,Joint Venture,56.82,60.5,Ekaterinburg,88.19,87.13,8.83,226.12
+RU,Joint Venture,56.75,60.8,Ekaterinburg,70.57,32.85,6.42,163.46
+RU,Joint Venture,56.75,60.8,Ekaterinburg,62.14,22.0,9.1,185.15
+RU,Joint Venture,56.83,60.6,Yekaterinburg,111.5,55.92,9.23,262.4
+RU,Joint Venture,57.12,65.55,Tyumen,127.46,39.0,9.07,170.03
+RU,Joint Venture,57.15,65.54,Tyumen,114.39,23.97,6.46,143.3
+RU,Joint Venture,57.63,39.87,Yaroslavl,103.03,77.97,8.58,173.31
+SE,Licensed,59.4,17.94,Kista,54.2,28.93,9.34,194.78
+SE,Licensed,59.18,18.16,Soderby,146.85,68.67,8.31,97.27
+SE,Licensed,59.44,17.93,Sollentuna,129.87,42.48,8.59,275.23
+SE,Licensed,59.37,18.01,Solna,79.28,33.88,7.83,218.55
+SE,Licensed,59.33,18.06,Stockholm,148.0,50.38,8.11,208.32
+SE,Licensed,59.34,18.07,Stockholm,110.19,84.12,6.14,74.87
+SE,Licensed,59.32,18.07,Stockholm,108.24,51.37,8.56,201.04
+SE,Licensed,59.33,18.07,Stockholm,124.81,80.06,6.33,80.24
+SE,Licensed,59.33,18.06,Stockholm,131.18,30.04,7.74,69.67
+SE,Licensed,59.33,18.07,Stockholm,115.65,81.82,7.17,181.83
+SE,Licensed,59.65,17.93,Stockholm - Arlanda,62.81,38.95,8.18,150.7
+SE,Licensed,59.64,17.93,Stockholm - Arlanda,83.83,74.19,6.53,197.2
+SE,Licensed,59.65,17.93,Stolkholm - Arlanda,142.81,65.26,8.77,72.31
+SE,Licensed,59.44,18.08,Taby,72.46,94.33,9.18,157.75
+SE,Licensed,59.45,18.08,Täby,87.22,50.99,6.65,93.7
+SE,Licensed,59.88,17.68,Uppsala,93.21,25.29,6.42,296.78
+SE,Licensed,57.71,11.97,Gothenburg,93.94,21.53,6.58,190.29
+SE,Licensed,59.62,16.46,Vasteras,111.29,86.15,9.51,221.86
+SK,Licensed,48.14,17.12,Bratislava,144.31,61.98,8.11,131.35
+SK,Licensed,48.16,17.18,Bratislava,74.07,82.02,7.87,73.68
+SK,Licensed,48.13,17.11,Bratislava,62.15,38.75,6.43,293.97
